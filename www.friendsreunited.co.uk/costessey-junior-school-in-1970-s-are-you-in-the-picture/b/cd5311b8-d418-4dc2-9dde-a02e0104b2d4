@@ -1,0 +1,445 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<!--FRTemplate ~/Views/Shared/_SingleNavLayout.cshtml -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta charset="utf-8" />
+	<title>Welcome | Friends Reunited</title>
+	<meta name="description" content="Find, reunite, contact old friends from school, work, college, university, neighbours, armed forces, expats. Make new friends with our community boards" />
+	<meta name="keywords" content="friends, reunited, oldfriends, old friends, lostfriends, friendsreunited, schools, people finder, message board, community, chat, lost friends, lost touch, contact, trace, locate, search, friends from past, friends from the past, past, primary, school, primary school, secondary school, secondary, college, university, universities, uni, reuniting, reunite, find, old friends, mates, buddies, classmates, class mates, colleagues, workmates, work mates, schoolfriends, school friends, armed forces, forces, regiment, veterans, servicemen, service-men, army, navy, raf, airforce, neighbours, housemates, house mates, flatmates, flat mates, old flame, first love, military forces ex-servicemen, Find expats and friends now living abroad, lost relation, online personals, partner, people, personal, personal ad, photo, photo personals, photos, pics, pictures" />
+	<meta name="author" content="Friends Reunited" />
+	<link rel="shortcut icon" href="/favicon.ico?v=3">
+
+
+	
+
+<link rel="stylesheet" type="text/css" href="/Content/Expires/SingleNav.min_5153A080C9A83E70A74BB321B4BD768D.css" />
+
+<link href="http://www.frstatic.net/css/single.css" rel="stylesheet" type="text/css" />
+
+	
+	
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>	window.jQuery || document.write('<script src="http://www.frstatic.net/js/libs/jquery-1.8.3.min.js"><\/script>')</script>
+
+
+
+<script type="text/javascript" src="/Content/Expires/SingleNavHeader.min_4C5630761A88564F5DF86676862107AD.js"></script>
+
+<script type="text/javascript">
+	FR.StaticUrl = 'http://www.frstatic.net';
+</script>
+
+
+
+<script type="text/javascript">
+	dataLayer = [{
+		'bsop_member_key': 0,
+		'bsop_member_age': 0,
+		'bsop_member_gender': '0',
+	    'bsop_member_v3': 'True',
+		'trk_click_source': '',
+		'trk_click_entity_key': '',
+		'trk_box_key': '',
+		'trk_box_name': '',
+		'page_counter': 'home.login.page',
+		'digitial_analytics': 'home.login.page',
+		'country_code': 'fru'
+	}];
+</script>
+
+
+
+<!--MachineName:FR1-WEB5-->
+	
+	
+        <script type="text/javascript">
+            dataLayer.push({
+                'custom_page_url': '/Login',
+            });
+        </script>
+    
+    
+</head>
+
+<body class="single-nav clearfix  standard">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-B7TL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-B7TL');</script>
+<!-- End Google Tag Manager -->
+
+    <div id="fb-root"></div>
+    
+
+    <!-- BEGIN Sunset Banner -->
+    <style>
+      .sunset-wrapper{
+        width:100%;
+        background: #f8f8f8;
+        text-align: center;
+        font-family: Arial, sans-serif;
+      }
+
+      .sunset-content{
+        max-width:700px;
+        margin:0 auto;
+        padding:40px 0 40px 0;
+      }
+
+      .sunset-content h2{
+        font-weight: bold;
+        color:#0098C2;
+        font-size: 24px;
+        margin-bottom: 32px;
+      }
+
+      .sunset-content p{
+        color: #00485C;
+        font-size: 14px;
+        line-height: 21px;
+      }
+
+      .sunset-content a{
+        color: #0098C2;
+        font-weight: bold;
+      }
+    </style>
+    <div class="sunset-wrapper">
+        <div class="sunset-content">
+            <h2>FriendsReunited - the sunset of an era</h2>
+            <p>
+                In the summer of 2000 we launched FriendsReunited as a method for people to find their old friends from their school days.
+            </p>
+            <p>
+                It is with a heavy heart, that we have decided to close the service down. This will commence in the next month, We do recognise that people have a lot of old photos within their profiles on the site. We will therefore provide a link to allow you to login and download your photos. You will be receiving an email in the coming months with further information on this.
+            </p>
+            <p>
+                <a href="https://medium.com/%40liife/friendsreunited-the-sunset-of-an-era-3e5b2ea7bb11" alt="Read more about it">Read more about this</a>
+            </p>
+        </div>
+    </div> <!-- END Sunset Banner -->
+   
+
+
+    <div id="wrap">
+        <header role="banner" id="header" class="header">
+            <div id="header-content" class="old_logos">
+                <div class="logo_timeline">
+                    <a href="/" title="Friends Reunited"><img src="/Images/splash_new/logo_2012.gif" /></a>
+                    <span class="logo_date">2012</span>
+                </div><div class="logo_timeline">
+                    <img src="/Images/splash_new/logo_2008.gif" />
+                    <span class="logo_date">2008</span>
+                </div><div class="logo_timeline">
+                    <img src="/Images/splash_new/logo_2003.gif" />
+                    <span class="logo_date">2003</span>
+                </div><div class="logo_timeline">
+                    <img src="/Images/splash_new/logo_2002.gif" />
+                    <span class="logo_date">2002</span>
+                </div><div class="logo_timeline">
+                    <img src="/Images/splash_new/logo_2000.gif" />
+                    <span class="logo_date">2000</span>
+                </div>
+            </div>
+        </header>
+        <div id="single-container">
+            <div id="single-content">
+                <!--FRTemplate ~/Views/_ViewStart.cshtml -->
+
+<!--FRTemplate ~/Views/Home/Login.cshtml -->
+
+<div class="row-fluid padbottom20">
+	<div class="span7">
+		<div class="hero-unit">
+			<h1>Login or Register to continue</h1>
+            <p>You need to login or register to view this page</p>
+		</div>
+		<div id="login-explain">
+			<div class="login_reunite">
+            	<h2>Reunite</h2>
+                <p>Find friends and never lose touch again. Search millions of people at <a href="/schoolfinder">schools</a>, <a href="/Schoolfinder">universities</a>, <a href="/Find/clubs-societies/20">clubs</a>, <a href="/Find/armed-forces/19">armed forces</a>, <a href="/Find/landmarks/6">streets</a> and <a href="/Find/friend-groups/59">chat groups</a>.</p>
+			</div>
+			<div class="login_share">
+            	<h2>Share</h2>
+            	<p>Keep friends and family up-to-date with your profile, share photos, share videos and celebrate big events with your timeline.</p>
+            </div>
+			<div class="login_friends">
+				<h2>Friendship</h2>
+                <p><a href="/Find/friend-groups/0">Find and chat</a> with people who share your hobbies and interests. Meet new people, share advice and discover something new.</p>
+			</div>
+		</div>
+	</div>
+	<div class="span5">
+		<div class="row-fluid">
+			<div class="span12">
+				<div id="splashLogin" class="pull-right">
+					<h3>Already a member?</h3>
+					<a href="#" id="signinDisplayBtn" class="primaryLink" style="display: none;">Sign in</a>
+					<div id="loginFormWrapper">	
+						<!--FRTemplate ~/Views/Shared/_Logon.cshtml -->
+
+<form action="/Account/LogOn" id="splashLoginForm" method="post">	<div id="loginErrorPanel" class="errorPanel errorNotificationContent"></div>
+	<fieldset class="tight">
+		<input id="ReturnUrl" name="ReturnUrl" type="hidden" value="/costessey-junior-school-in-1970-s-are-you-in-the-picture/b/cd5311b8-d418-4dc2-9dde-a02e0104b2d4" />
+		<div class="field"><input class="watermark" data-val="true" data-val-required="The User name field is required." id="UserName" name="UserName" placeholder="Email" type="text" value="" /></div>
+		<div class="field">	<input name="Password" id="Password" type="password" class="watermark" placeholder="Password" /></div>
+		<div class="smallOptions">
+			<div class="field"><label class="radioCheckLabel small"><input type="checkbox" checked="checked" class="radioCheck" id="RememberMe" name="RememberMe" value="true" />Keep me signed in</label></div>
+		</div>
+
+		<button class="primaryButton jumbo" type="submit">Sign me in now</button>  
+        <div class="clear"><br /></div>
+        <div class="small"> <a href="/Account/Forgot?status=Successful">Forgotten password or changed email address?</a></div>
+        <div class="clear"></div>
+		<div class="fb-button loading"><a id="fb-signin-link" class="facebookLogin" href="#"  style="display: none;">Login with Facebook</a></div>
+	</fieldset>
+</form>
+<script type="text/javascript">
+	FR.Load(function () {
+		var validator = $("#splashLoginForm").bind("invalid-form.validate", function () {
+			$("#loginErrorPanel").html("Both email and password are required");
+		}).validate({
+			onfocusout: false,
+			onkeyup: false,
+			onclick: false,
+			errorContainer: $("#loginErrorPanel"),
+			errorPlacement: function (error, element) {
+				$('#serverErrorPanel').hide();
+				$('#loginErrorPanel').hide();
+			},
+			rules: {
+				Username: {
+					required: {
+						depends: function () {
+							$(this).val($.trim($(this).val()));
+							return true;
+						}
+					},
+					minlength: 3,
+					email: true
+				},
+				Password: {
+					required: true
+				}
+			}
+		});
+	});
+</script>    		
+					</div>			
+				</div>
+			</div>
+		</div>
+		<div class="row-fluid">
+			<div class="span12">
+				<div id="splashSignUp" class="pull-right">
+					<h3>New Member?</h3>
+                    <p>Join in now, it's free, easy and you'll be back in touch in no time!</p>
+					<a href="#" id="splashSignupDisplayBtn" class="primaryButton jumbo">Register now</a>
+					<!--FRTemplate ~/Views/Shared/_Register.cshtml -->
+
+<form action="/Account/Register" autocomplete="off" class="form-horizontal" id="splashSignUpForm" method="post" style="display: none;">	<div id="registerErrorPanel" class="errorPanel errorNotificationContent"></div>
+	<fieldset>                 
+		<input type="hidden" name="FacebookId" id="FacebookId" />
+		<input id="ReturnUrl" name="ReturnUrl" type="hidden" value="/costessey-junior-school-in-1970-s-are-you-in-the-picture/b/cd5311b8-d418-4dc2-9dde-a02e0104b2d4" />
+        <div class="controls-row">
+		    <input type="text" name="Forename" id="Forename" class="watermark first span6" placeholder="*First name" />
+            <input type="text" name="Surname" id="Surname" class="watermark span6" placeholder="*Last name" />
+            <label class="small">* Please use alphanumerical characters only</label>
+        </div>
+        <div class="controls-row">
+		    <input type="text" name="Email" id="Email" class="watermark span12" placeholder="Your email" />
+        </div> 
+        <div class="controls-row">
+            <input type="password" name="Password" id="Password" class="watermark span12" placeholder="Your password" />
+        </div> 
+        
+        <div class="controls-row">  
+            <select name="Birthyear" id="Birthyear" class="span6 select"><option value="">Year of birth</option></select>
+            <select name="Gender" id="Gender" class="span6 select"><option value="">Gender</option><option value="male">Male</option><option value="female">Female</option></select>
+        </div>
+        
+        
+        <input type="text" name="hdnSourceInput" id="hdnTestInput" class="hidden" />
+		<div class="controls-row">
+			<label class="small"><input type="checkbox" name="Mailing" id="Mailing" value="true" checked="checked" class="radioCheck" />Get updates from Friends Reunited</label>
+			<label class="small"><input type="checkbox" name="Terms" id="Terms" value="true" class="radioCheck" />I agree to the <a href="/Terms">Terms &amp; Conditions</a></label>
+        </div>
+	</fieldset>
+	<button id="btnSignUpBtn" class="primaryButton jumbo" type="submit">Sign up <span>&ndash; it's FREE</span></button>
+	<div class="clear"></div>
+	<div class="fb-button loading"><a id="fb-register-link" class="facebookLogin" href="#" style="display: none;">Sign up with Facebook</a></div>
+</form>
+<div class="fb-facepile" data-max-rows="1" data-width="250"></div>
+
+<script type="text/javascript">
+    FR.Load(function () {
+        var result = '2016';
+        for (var i = result - 18; i >= result - 120; i--) {
+            $('#Birthyear').append($("<option/>", { value: i, text: i }));
+        }
+
+        var validator = $("#splashSignUpForm").bind("invalid-form.validate", function () {
+            $("#registerErrorPanel").html("You must fill in all fields and agree to our terms and conditions.");
+        }).validate({
+            onfocusout: false,
+            onkeyup: false,
+            onclick: false,
+            errorElement: "li",
+            errorContainer: $("#registerErrorPanel"),
+            errorPlacement: function (error, element) {
+                $('#registerErrorPanel').show();
+            },
+            rules: {
+                Forename: {
+                    required: true,
+                    minlength: 2,
+                    maxlength: 20
+                },
+                Surname: {
+                    required: true,
+                    minlength: 2,
+                    maxlength: 20
+                },
+                Email: {
+                    required: true,
+                    email: true,
+                    pattern: /^((?!mailinator).)*$/
+                },
+                Password: {
+                    required: true,
+                    minlength: 6
+                },
+                Birthyear: {
+                    required: true
+                },
+                Gender: {
+                    required: true
+                },
+                Terms: {
+                    required: true
+                }
+            }
+        });
+
+        $('#btnSignUpBtn').on('click', function () {
+            if ($("#splashSignUpForm").valid() == true) {
+                if ($('#btnSignUpBtn').hasClass('wait')) {
+                    return false;
+                }
+                $(this).addClass('wait');
+                $('.fb-button').addClass('hide');
+            }
+        });
+    });
+</script>  
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="splash_bottom_icons">
+	<div class="search_icon">
+		<a href="/schoolFinder"><img src="/Images/splash_new/find_icon_big.gif" alt="Search"/></a>
+		<p>Take a look at the schools and friend groups listed on Friends Reunited - <a href="/schoolFinder">search here</a>.</p>
+	</div>
+	<div class="help_icon">
+		<a href="/Help"><img src="/Images/splash_new/help_icon_big.gif" alt="Help"/></a>
+		<p>To learn more about how to use Friends Reunited, please <a href="/Help">visit our Help pages</a>.</p>  
+	</div>
+	<div class="clear"></div>
+</div>
+    
+
+
+
+    
+
+ 
+    <script type="text/javascript">
+        FR.Load(function () {
+            FR.Splash.Setup();
+        });
+    </script>
+
+
+            </div>
+        </div>
+        <div id="push"></div>
+    </div>
+
+    <footer id="single-footer">
+        <p class="copyright">&copy; Friends Reunited Limited 2000-2014. All site material is owned by Friends Reunited Limited and should not be used without prior permission. Any views expressed in message boards and member notes represent the opinions of the author, and do not represent the opinions of Friends Reunited Limited.</p>
+
+        <nav class="smallBulletNav left">
+            <ul>
+                <li><span>Our sister sites:</span></li>
+                <li><a class="twitter" href="/Account/Blank?Rf=8350&amp;Rd=http%3A%2F%2Fwww.friendsreuniteddating.co.uk" target="_blank" title="Dating">Dating</a></li>
+                <li><a class="twitter" href="/Account/Blank?Rf=8350&amp;Rd=http%3A%2F%2Fwww.genesreunited.co.uk" target="_blank" title="Genes Reunited">Family Tree</a></li>
+            </ul>
+        <a href="http://mxguarddog.com/faq.is_it_really_free/">free spam filter</a>
+        </nav>
+            
+    </footer>
+
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+	<link rel="stylesheet" type="text/css" href="http://www.frstatic.net/css/ie.css" />
+	<script src="http://www.frstatic.net/js/libs/respond.min.js"> </script>
+<![endif]-->
+
+
+<script type="text/javascript" src="/Content/Expires/SingleNav.min_48BECF1EB24D58D157ECC812C79CB301.js"></script>
+
+<script type="text/javascript">
+		FR.Initialise();
+
+		var FB;
+		window.fbAsyncInit = function () {
+			var curLoc = window.location;
+			var channelUrl = curLoc.protocol + "//" + curLoc.hostname + "/channel.html";
+			//channelUrl = curLoc.protocol + "//" + "www.friendsreunited.co.uk" + "/channel.htm"
+			FB.init({
+				appId: '238863132841339',
+				channelURL: channelUrl,
+				status: true,
+				cookie: true,
+				oauth: true,
+				xfbml: true
+			});
+
+		    FR.Load(function () {
+				FR.FBInit = true;
+			});
+
+			FR.FacebookLoad(function () {
+			    
+			    FB.getLoginStatus(function (response) {
+			        console.log(response);
+					FR.Splash.FBButtonSetup(response, '/Account/FBRegister', '/Account/FBLogon');
+				}, true);
+			});
+		};
+
+		(function (d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_GB/all.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		} (document, 'script', 'facebook-jssdk'));
+	</script>
+</body>
+</html>

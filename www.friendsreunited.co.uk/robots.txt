@@ -1,0 +1,11 @@
+# www.robotstxt.org/
+
+User-agent: *
+Disallow: /doubleclick
+Disallow: /eyeblaster
+Disallow: /eyewonder
+Disallow: /facilitate
+Disallow: /saymedia
+Disallow: /adform
+Disallow: /Movies
+Allow: /

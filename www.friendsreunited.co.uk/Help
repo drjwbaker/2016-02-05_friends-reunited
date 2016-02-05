@@ -1,0 +1,913 @@
+<!--FRTemplate ~/Views/Shared/_Layout.cshtml -->
+
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+    <!--FRTemplate ~/Views/Shared/_Layout.cshtml -->
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <title>Frequently Asked Questions | Help | Friends Reunited</title>
+    <meta name="description" content="Find solutions and help with any questions about the new Friends Reunited. Look through our most Frequently Asked Questions, or ask your own questions." />
+    <meta name="keywords" content="faq, help, answer, question, problem, support, search" />
+    <meta name="author" content="Friends Reunited" />
+    <link rel="shortcut icon" href="/favicon.ico?v=3">
+
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+
+    <meta name="apple-mobile-web-app-title" content="FriendsReunited">
+    <meta name="msapplication-TileImage" content="http://www.frstatic.net/Images/windows-8-tile.png"/>
+    <meta name="msapplication-TileColor" content="#0099C0" />
+
+
+
+   <meta name="viewport" content="width=device-width" />
+    
+
+    
+
+
+
+<link rel="stylesheet" type="text/css" href="/Content/Expires/Libraries.min_7779B2D3B2F530F97A4C0BB14F3A3982.css" />
+
+
+<link rel="stylesheet" type="text/css" href="/Content/Expires/Site.min_DBFDD0C082CE5ED8E5C5C51C51020550.css" />
+
+
+
+
+    <link href="App_Sprites/Buzzes/highCompat.css" media="all" rel="stylesheet" type="text/css" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>	window.jQuery || document.write('<script src="http://www.frstatic.net/js/libs/jquery-1.8.3.min.js"><\/script>')</script>
+
+
+
+<script type="text/javascript" src="/Content/Expires/Header.min_2A2AD4CAC17594EFC526D8426DE3557A.js"></script>
+
+<script type="text/javascript">
+	FR.StaticUrl = 'http://www.frstatic.net';
+</script>
+
+
+
+
+
+<script type="text/javascript">
+	dataLayer = [{
+		'bsop_member_key': 0,
+		'bsop_member_age': 0,
+		'bsop_member_gender': '0',
+	    'bsop_member_v3': 'True',
+		'trk_click_source': '',
+		'trk_click_entity_key': '',
+		'trk_box_key': '',
+		'trk_box_name': '',
+		'page_counter': 'help.index.page',
+		'digitial_analytics': 'help.index.page',
+		'country_code': 'fru'
+	}];
+</script>
+
+
+
+<!--MachineName:FR1-WEB5-->
+
+    
+
+</head>
+<body class="clearfix  standard ">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-B7TL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-B7TL');</script>
+<!-- End Google Tag Manager -->
+
+    <!--[if IE 7]>
+        <div id="unsupported-browser">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td width="70px" align="center">
+                        <img src="http://www.frstatic.net/Images/Icons/notifyAlert.png" alt="Warning"/>
+                    </td>
+                    <td>
+                        <p><strong>The browser you are using is not fully supported by Friends Reunited.</strong> While the site may work, you may experience unexpected problems from time to time.</p>
+                        <p>To enjoy Friends Reunited to it's fullest, consider upgrading your browser. Find out more - <a href="http://windows.microsoft.com/en-GB/internet-explorer/download-ie" target="_blank">Microsoft Internet Explorer</a>, <a href="http://www.getfirefox.com" target="_blank">Mozilla Firefox</a>, <a href="http://www.google.com/intl/en/chrome/browser/" target="_blank">Google Chrome</a></p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    <![endif]-->
+
+    <div id="fb-root"></div>
+    
+    
+
+
+        <div id="sponsoredLinkBanner">&nbsp;</div>
+
+
+    <div id="contOuter">
+        
+        <div id="container" class="clearfix">
+
+            <header role="banner" id="fixedHeader" class="header">
+                
+                <a id="logo" href="/" title="Home">Friends Reunited</a>
+
+                
+
+
+<!--FRTemplate ~/Views/UI/SecondaryNav.cshtml -->
+
+
+<ul id="secondary-nav" class="nav nav-pills pull-right">
+
+		<li><a class="loginControl" href="/Home/Login?returnUrl=http%3A%2F%2Fwww.friendsreunited.co.uk%3A80%2FHelp&amp;_loggingIn=True">Sign in</a></li>
+		<li class=""><a href="/Search/Find">Find</a></li>
+		<li><a href="/Help">Help</a></li>
+
+</ul>
+            </header>
+
+
+            
+            <div id="content">
+
+                <!--FRTemplate ~/Views/_ViewStart.cshtml -->
+
+<!--FRTemplate ~/Views/Help/Index.cshtml -->
+
+<div class="smallCenter" id="faq">
+    <div id="column0-small">
+        <div class="ventanus160x600" style="margin: auto;">
+<!--FRTemplate ~/Views/Advert/_venatus160x600.cshtml -->
+
+    <!--Venatus Market Placement Code - 160x600 -->
+    <script src="http://cdn2-marketplace.vntsm.com/p.js?s=52df92c28df9096b2000013f&r_id=2213801" type="text/javascript"></script>
+    <!--/Venatus Market Site Code - 160x600 -->
+
+
+
+
+
+        </div>
+    </div>
+    <div id="column1">
+        <div id="faq-menu">
+<!--FRTemplate ~/Views/Help/_FaqMenu.cshtml -->
+
+<section id="FAQmenu">
+    <h1>Full FAQ Listing</h1>
+    <ul>
+
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Troubleshooting?  
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="4" class="faq-question">I need a password reminder - can't login</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="310" class="faq-question">My name is listed more than once - how can I correct that?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="527" class="faq-question">How can I remove my membership?   </a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="12" class="faq-question">How do I validate my membership?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="312" class="faq-question">Whenever I login - I get someone else's membership...</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="328" class="faq-question">I don't want both my maiden name and my current surname to be displayed.</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="416" class="faq-question">I can't login - I'm being told that browser's cookie is disabled</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="305" class="faq-question">I don't want to be automatically logged in to Friends Reunited...</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="536" class="faq-question">I can't find my unread/new message(s)</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="544" class="faq-question">I have not received the email to reset my password?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="7" class="faq-question">An ex-colleague still has their emails being sent to our company ...</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="326" class="faq-question">My wife/ husband/ relative wants to register with FR but keeps being logged in to my membership...</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Voting
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="577" class="faq-question">How to I express my opinion of a discussion or reply?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="578" class="faq-question">What happens if I change my opinion?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="579" class="faq-question">Can I vote more than once?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="580" class="faq-question">Will the votes I have made show on my profile page?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="581" class="faq-question">Will the owner of the discussion or reply know how I have voted?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="582" class="faq-question">How do I find out who has agreed or disagreed with my post?</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Newsfeed
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="506" class="faq-question">What is my 'Newsfeed'?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="477" class="faq-question">How do I view my Newsfeed?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="439" class="faq-question">Can I remove items from my Newsfeed?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="440" class="faq-question">Can other members view my Newsfeed?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="441" class="faq-question">What are 'Reactions to my comments and photos'?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="442" class="faq-question">What are 'Invitations & recommendations'?</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        My Keepsafe<img src="http://www.friendsreunited.co.uk/images/icons/new.png" alt="New" />
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="453" class="faq-question">What is my Keepsafe?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="454" class="faq-question">How do I add photos and videos to my Keepsafe?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="455" class="faq-question">How do I edit the details I have added to a photo or video?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="456" class="faq-question">Can other members view my Keepsafe?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="458" class="faq-question">How do I add an item from my Keepsafe to a Friend Group?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="459" class="faq-question">How do I remove an item from my Keepsafe (photos and videos)?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="460" class="faq-question">What file types and sizes can I upload to my Keepsafe?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="461" class="faq-question">Can I upload more than one file at a time?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="505" class="faq-question">What is photo tagging? </a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="540" class="faq-question">How do I add name tags to a photo?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="462" class="faq-question">Can I share items added to my Keepsafe with people outside of Friends Reunited?</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        My Account
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="19" class="faq-question">How do I change my email address or password?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="209" class="faq-question">I don't want to receive any emails from you...</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="327" class="faq-question">How much does it cost to use Friends Reunited?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="478" class="faq-question">How do I sign out?</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Friend Groups
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="443" class="faq-question">What is a Friend Group</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="444" class="faq-question">Can I still see a list of people who attended my School, Workplace, Armed Forces and Teams/Clubs?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="445" class="faq-question">How do I find a Friend Group?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="447" class="faq-question">How do I create a new Friend Group?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="543" class="faq-question">How do I change my Friend Groups profile photo?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="471" class="faq-question">Friend Group's - Public, Shared or Private?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="446" class="faq-question">How do I join a Friend Group?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="541" class="faq-question">How do I remove a Friend Group?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="448" class="faq-question">How do I edit a Friend Group I have created?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="449" class="faq-question">How do I add my content to a Friend Group?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="450" class="faq-question">How do I remove content from a Friend Group?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="451" class="faq-question">Can I invite another member to a Friend Group I have joined or created?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="474" class="faq-question">Can I allow another person to manage a Friend Group I have created?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="472" class="faq-question">Can I make my public or shared Friend Group private?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="473" class="faq-question">Can I remove a person from a Friend Group have created?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="452" class="faq-question">Can I share Friend Group's with people outside of Friends Reunited?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="490" class="faq-question">What happens if I leave a Friend Group I have made?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="575" class="faq-question">What is the Best Contributors ranking list?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="470" class="faq-question">Someone else has kept my photo/video?</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Profiles & People…
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="435" class="faq-question">How do I view my own Profile page?   <img alt="updated" src="http://frstatic.net/webimage/icons/updated_member.gif"></a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="539" class="faq-question">How do I view someone else's Profile page? </a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="124" class="faq-question">How do I update my profile?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="436" class="faq-question">How do I change my profile photo?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="355" class="faq-question">How do I amend my name?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="491" class="faq-question">How do I edit my About me section?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="437" class="faq-question">Where have my places gone?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="479" class="faq-question">Where have all my profile comments gone?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="481" class="faq-question">Where is my friends list?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="511" class="faq-question">How can I find people on the new Friends Reunited?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="512" class="faq-question">Can I search for someone just by their forename or surname?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="513" class="faq-question">How can I tell when someone last updated their profile?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="514" class="faq-question">My relative or friend has passed away but is still listed on Friends Reunited...</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        New look Friends Reunited - common questions
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="520" class="faq-question">Where are all of my schools/workplaces?  <img alt="updated" src="http://frstatic.net/webimage/icons/updated_member.gif"></a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="531" class="faq-question">My Schools, Workplaces and teams are not showing in my Friend Groups…<img src="http://www.friendsreunited.co.uk/images/icons/new.png" alt="New" /></a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="526" class="faq-question">Someone has kept my photo -  why are they allowed to do that?   <img src="http://www.friendsreunited.co.uk/images/icons/new.png" alt="New" /></a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="524" class="faq-question">Where is the profile that I wrote?  <img alt="updated" src="http://frstatic.net/webimage/icons/updated_member.gif"></a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="532" class="faq-question">How can I find people on the new Friends Reunited? <img src="http://www.friendsreunited.co.uk/images/icons/new.png" alt="New" /></a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="493" class="faq-question">Where have my Groups gone?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="501" class="faq-question">Where are the places I was listed at ? </a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="518" class="faq-question">Where are the chat rooms?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="484" class="faq-question">Some of my profile is missing - countries visited etc ....</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="517" class="faq-question">Where are the Games?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="519" class="faq-question">I can't find my photos ...</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="538" class="faq-question">Where is my Street?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="542" class="faq-question">How do I find my School/University or College?<img src="http://www.friendsreunited.co.uk/images/icons/new.png" alt="New" /></a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="483" class="faq-question">Where is my Friends list?</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Privacy    <img alt="updated" src="http://frstatic.net/webimage/icons/updated_member.gif">
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="220" class="faq-question">How do I/can I control who sees which parts of my profile?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="463" class="faq-question">Can other people see my Keepsafe items?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="247" class="faq-question">How can I block someone from contacting me?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="365" class="faq-question">How can I remove a block I have placed?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="480" class="faq-question">Will someone know if I have blocked them?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="287" class="faq-question">Will anyone know that I have looked at their profile/ who has looked at mine?</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Messages
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="208" class="faq-question">How do I send a message to someone?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="82" class="faq-question">How do I view my messages?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="280" class="faq-question">Can I send a message to a few friends at a time?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="83" class="faq-question">How do I know if my message has been send, received and read?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="99" class="faq-question">Can I send a file attachment with a message?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="545" class="faq-question">Why does a message in my inbox show as sent from 'Unknown'?</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Contacts
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="464" class="faq-question">What is my Friends list?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="465" class="faq-question">How do I add people to my Friends list?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="466" class="faq-question">How do I remove people from my Friends list?</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Reporting Abuse
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="515" class="faq-question">I really object to an image or some text that I have seen...</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="516" class="faq-question">I have seen something that infringes copyright</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="525" class="faq-question">Message board guidelines/ acceptable use policy</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Games 
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="406" class="faq-question">How do  Games work?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="415" class="faq-question">The Games will not load...</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="489" class="faq-question">Challenges and Invitations.</a>
+                    </li>
+            
+                </ul>
+                </li>
+                <li>
+                <em>
+                    <a class="faq-header" href="#">
+                        Buying Photo Gifts   
+                    </a>
+                </em>
+                <ul>
+
+                    <li class="faq-question-item">
+                        <a href="#" value="560" class="faq-question">Why has my picture got a “Make Gift” label on it?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="564" class="faq-question">I want to order as a gift for a family or friends, can I order to an address which isn’t my own? </a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="566" class="faq-question">I want to place an order, but can’t see my photo in My Keepsafe?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="567" class="faq-question">How can I pay for my order?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="565" class="faq-question">Can I buy multiples of a gift?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="562" class="faq-question">What is “resolution” and what photo resolution do I need for a gift?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="570" class="faq-question">How do I know if my order is being processed by you?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="563" class="faq-question">I didn’t get the chance to position my photo, how can I be sure it will  look ok?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="568" class="faq-question">How long will it take for my order to arrive?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="571" class="faq-question">I haven't received the products I ordered. What should I do?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="572" class="faq-question">My product is poor quality, can I get a refund?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="573" class="faq-question">My gift was damaged in transit, can I get a replacement?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="574" class="faq-question">I’ve changed my mind, can I cancel?</a>
+                    </li>
+                    <li class="faq-question-item">
+                        <a href="#" value="569" class="faq-question">I wish to check the status of my order. How can I do so?</a>
+                    </li>
+            
+                </ul>
+                </li>
+                
+    </ul>
+</section>
+        </div>
+        <p>If none of the above FAQs answer your question, please <b><a href="/Home/ContactUs">submit your query</a></b> to our dedicated support team</p>
+
+    </div>
+    <div id="column2">
+        <h1>Frequently asked questions</h1>
+        <p>Please either look through our most Frequently Asked Questions via the headings on the left or type your question into our Search box.</p>
+
+        <div id="faq-search">   
+           <form>
+                <fieldset>
+                    <table class="standardForm">
+                        <tr class="field">
+                            <td class="formCol1"><label>Search for a question:</label></td>
+                            <td class="formCol2"><div class="inlineFields"><input type="text" id="searchTextBox" maxlength="200" /></div><input type="submit" class="primaryButton right" value="Search" id="searchButton" /></td>
+                        </tr> 
+                    </table>
+                    <p></p>
+                </fieldset>
+            </form>
+        </div>
+        <div id="faq-search-results"></div>
+        <div id="faq-detail"></div>
+     </div>
+     <div id="mobileBack"><a href='#' class='resetFaq'>Back</a></div>
+    <div class="clear"></div>
+</div>
+<script>
+    FR.Load(function () {
+        var FaqKey = 0;
+        if (FaqKey != 0) {
+            var data = {
+                faq_key: FaqKey,
+                userSearchText: ''
+            };
+            $('#faq-detail').html('<div id="loading"><img src="' + FR.StaticUrl + '/img/loadingSpinner.gif" alt="Loading" height="28px" width="28px" /></div>').show();
+
+            FR.Data.Post("/Help/FaqDetail", { dataType: 'html' }, data, function (result) {
+                $('#faq-detail').html(result);
+                    $('#faq-detail p, #faq-detail span').removeAttr('style');
+                    $('#faq-detail p').filter(function() {
+                    	return $.trim($(this).text()) === '';
+                    }).remove();
+            });
+        }
+
+        $('#searchButton').live("click", function () {
+            var data = {
+                userSearchText: $('#searchTextBox').val()
+            };
+            $('#faq-detail').hide();
+            $('#faq-search-results').html('<div id="loading"><img src="' + FR.StaticUrl + '/img/loadingSpinner.gif" alt="Loading" height="28px" width="28px" /></div>').show();
+            FR.Data.Post("/Help/FaqSearch", { dataType: 'html' }, data, function (result) { 
+                $('#faq-search-results').html(result);
+            }, function () {
+            	$('#faq-search-results').html('<div id="FAQsearch"><ul><li><h2>No results found for "' + data.userSearchText + '"</h2><ul></ul></li></ul></div>');
+            });
+            return false;
+        });
+
+        $('.faq-question').live("click", function () {
+            $('#faqAnswer, #faq-detail').remove();
+            $('.faq-question').removeClass('selected');
+            $('.faq-question').show();
+            //$(this).hide();
+            $(this).addClass('selected');
+            var searchText = $('#searchTextBox').val();
+            var back = "<div><a href='#' class='backToResults'>Close</a></div>";
+            //$('#faq-search-results').hide();
+            $(this).parent().after("<li id='faqAnswer'><div id='faq-detail'></div></li>");
+            $('#faq-detail').html('<div id="loading"><img src="' + FR.StaticUrl + '/img/loadingSpinner.gif" alt="Loading" height="28px" width="28px" /></div>').show();
+            if (searchText == '') {
+                var data = {
+                    faq_key: $(this).attr("value")
+                };
+
+                FR.Data.Post("/Help/FaqDetail", { dataType: 'html' }, data, function (result) {
+                    $('#faq-detail').html(result).append(back);
+                    $('#faq-detail p, #faq-detail span').removeAttr('style');
+                    $('#faq-detail p').filter(function() {
+                    	return $.trim($(this).text()) === '';
+                    }).remove();
+                });
+
+            } else {
+                var data = {
+                    faq_key: $(this).attr("value"),
+                    userSearchText: $('#searchTextBox').val()
+                };
+
+                FR.Data.Post("/Help/FaqDetailSearch", { dataType: 'html' }, data, function (result) {
+                    $('#faq-detail').html(result).show().append(back);
+                    $('#faq-detail p, #faq-detail span').removeAttr('style');
+                    $('#faq-detail p').filter(function() {
+                        return $.trim($(this).text()) === ''
+                    }).remove();
+                });
+            }
+            return false;
+        });
+
+        $('.backToResults').live("click", function () {
+            $('#faqAnswer').hide();
+            $('.faq-question').show().removeClass('selected');
+            return false;
+        });
+
+        $('.faq-header').live("click", function () {
+           $('#faq-detail, .mobile #column1, .mobile #faq-search').hide();
+           title= "<h2>" + $(this).text() + "</h2>";
+           $('#faq-search-results').hide();
+           $('#faq-search-results').html($(this).parent().parent().children('ul').clone()).prepend(title).show();
+            return false;
+        });
+
+        $('.back-to-menu').live("click", function (e) {
+            $('#faq-search-results').hide();
+            $('#faq-menu').show();
+            return false;
+        });
+
+        $('.resetFaq').live("click", function (e) {
+            $('.mobile #column1, .mobile #faq-search').show();
+            $('#faq-search-results').hide();
+        });
+    });
+</script>
+                <div class="clear"></div>
+            </div>
+            <footer id="contentFooter">
+                <div class="smallBulletNav left">
+                    <ul>
+                        <li><a href="/About">About</a></li>
+                        <li><a href="/Help">Help</a></li>
+                        <li><a href="/Home/ContactUs">Contact us</a></li>
+                        
+                        <li class="termsConditions">
+                            <a href="/Terms">Terms &amp; Conditions</a><div class="newLabel"></div>
+                        </li>
+                        <li class="privacyPolicy">
+                            <a href="/Privacy">Privacy policy</a><div class="newLabel"></div>
+                        </li>
+                    </ul>
+                </div>
+
+                
+
+                <p class="copyright">&copy; Friends Reunited Limited 2000-2014. All site material is owned by Friends Reunited Limited and should not be used without prior permission. Any views expressed in message boards and member notes represent the opinions of the author, and do not represent the opinions of Friends Reunited Limited.</p>
+                <div class="smallBulletNav left">
+                    <ul>
+                        <li><span>Our sister sites:</span></li>
+                        <li><a class="twitter" href="/Account/Blank?Rf=8350&amp;Rd=http%3A%2F%2Fwww.friendsreuniteddating.co.uk" target="_blank" title="Dating">Dating</a></li>
+                        <li><a class="twitter" href="/Account/Blank?Rf=8350&amp;Rd=http%3A%2F%2Fwww.genesreunited.co.uk" target="_blank" title="Genes Reunited">Family Tree</a></li>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+            </footer>
+        </div>
+
+        <footer id="advert">
+
+        </footer>
+        
+<!--FRTemplate ~/Views/UI/Report.cshtml -->
+<div id="report-container"></div>
+<script type="text/javascript">
+    FR.Load(function () {
+        FR.Reporter.Setup();
+        //$('body').on('click', '.report', function (e) {
+        //	e.preventDefault();
+        //	var el = this;
+        //	if ($(el).attr('generated')) {
+        //		var key = $(el).attr('data-id');
+        //		var type = $(el).attr('data-type');
+
+        //		FR.Data.Get(FR.UrlHelper.UrlQueryBuilder(FR.UrlHelper.Urls.ReportForm, { key: key, type: type }), {}, function (result) {
+        //			$('#report-container').html(result);
+        //			$('#Redirect').val($(el).attr('data-url'));
+        //			$('#reportAbuse').modal({});
+        //		});
+        //	}
+        //});
+    });
+</script>
+    </div>
+
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+	<link rel="stylesheet" type="text/css" href="http://www.frstatic.net/css/ie.css" />
+	<script src="http://www.frstatic.net/js/libs/respond.min.js"> </script>
+<![endif]-->
+
+
+<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"> </script>
+
+<script type="text/javascript" src="/Content/Expires/libs.min_4DA148E86AF0942F91F10EEC33485E55.js"></script>
+
+
+<script type="text/javascript" src="/Content/Expires/Site.min_4E8521280B3678F912728D86CD59B2C4.js"></script>
+
+    <script type="text/javascript">
+        FR.OpenGraph.Namespace = 'friends_reunited';
+    </script>
+
+
+    <script type="text/javascript">
+        FR.Initialise();
+        FR.Load(function() {
+            FR.Popularity.SetupPopularity();
+        });
+   </script>
+
+    
+
+</body>
+
+</html>

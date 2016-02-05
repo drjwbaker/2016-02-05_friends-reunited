@@ -1,0 +1,679 @@
+<!--FRTemplate ~/Views/Shared/_Layout.cshtml -->
+
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+    <!--FRTemplate ~/Views/Shared/_Layout.cshtml -->
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <title>Search | Page 1 | Friend Group Search | Friends Reunited</title>
+    <meta name="description" content="Page 1 - search results for Friend Groups matching the search term &#39;Search&#39;" />
+    <meta name="keywords" content="Search, search, discover, memories, box, nostalgia, remember, when, friends, reunited" />
+    <meta name="author" content="Friends Reunited" />
+    <link rel="shortcut icon" href="/favicon.ico?v=3">
+
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+
+    <meta name="apple-mobile-web-app-title" content="FriendsReunited">
+    <meta name="msapplication-TileImage" content="http://www.frstatic.net/Images/windows-8-tile.png"/>
+    <meta name="msapplication-TileColor" content="#0099C0" />
+
+        <link rel="canonical" href="/Find?id=19&amp;boxType=UserDefined&amp;friendly=friend-group"/>
+
+
+   <meta name="viewport" content="width=device-width" />
+    
+
+    
+
+
+
+<link rel="stylesheet" type="text/css" href="/Content/Expires/Libraries.min_7779B2D3B2F530F97A4C0BB14F3A3982.css" />
+
+
+<link rel="stylesheet" type="text/css" href="/Content/Expires/Site.min_DBFDD0C082CE5ED8E5C5C51C51020550.css" />
+
+
+
+
+    <link href="App_Sprites/Buzzes/highCompat.css" media="all" rel="stylesheet" type="text/css" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>	window.jQuery || document.write('<script src="http://www.frstatic.net/js/libs/jquery-1.8.3.min.js"><\/script>')</script>
+
+
+
+<script type="text/javascript" src="/Content/Expires/Header.min_2A2AD4CAC17594EFC526D8426DE3557A.js"></script>
+
+<script type="text/javascript">
+	FR.StaticUrl = 'http://www.frstatic.net';
+</script>
+
+
+
+
+
+<script type="text/javascript">
+	dataLayer = [{
+		'bsop_member_key': 0,
+		'bsop_member_age': 0,
+		'bsop_member_gender': '0',
+	    'bsop_member_v3': 'True',
+		'trk_click_source': '',
+		'trk_click_entity_key': '',
+		'trk_box_key': '',
+		'trk_box_name': '',
+		'page_counter': 'search.boxresult.page',
+		'digitial_analytics': 'search.boxresult.page',
+		'country_code': 'fru'
+	}];
+</script>
+
+
+
+<!--MachineName:FR1-WEB5-->
+
+    
+
+</head>
+<body class="clearfix  standard ">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-B7TL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-B7TL');</script>
+<!-- End Google Tag Manager -->
+
+    <!--[if IE 7]>
+        <div id="unsupported-browser">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td width="70px" align="center">
+                        <img src="http://www.frstatic.net/Images/Icons/notifyAlert.png" alt="Warning"/>
+                    </td>
+                    <td>
+                        <p><strong>The browser you are using is not fully supported by Friends Reunited.</strong> While the site may work, you may experience unexpected problems from time to time.</p>
+                        <p>To enjoy Friends Reunited to it's fullest, consider upgrading your browser. Find out more - <a href="http://windows.microsoft.com/en-GB/internet-explorer/download-ie" target="_blank">Microsoft Internet Explorer</a>, <a href="http://www.getfirefox.com" target="_blank">Mozilla Firefox</a>, <a href="http://www.google.com/intl/en/chrome/browser/" target="_blank">Google Chrome</a></p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    <![endif]-->
+
+    <div id="fb-root"></div>
+    
+    
+
+
+        <div id="sponsoredLinkBanner">&nbsp;</div>
+
+
+    <div id="contOuter">
+        
+        <div id="container" class="clearfix">
+
+            <header role="banner" id="fixedHeader" class="header">
+                
+                <a id="logo" href="/" title="Home">Friends Reunited</a>
+
+                
+
+
+
+
+<!--FRTemplate ~/Views/UI/SecondaryNav.cshtml -->
+
+
+<ul id="secondary-nav" class="nav nav-pills pull-right">
+
+		<li><a class="loginControl" href="/Home/Login?returnUrl=http%3A%2F%2Fwww.friendsreunited.co.uk%3A80%2FFind%3Fid%3D19%26boxType%3DUserDefined%26friendly%3Dfriend-group&amp;_loggingIn=True">Sign in</a></li>
+		<li class="selected"><a href="/Search/Find">Find</a></li>
+		<li><a href="/Help">Help</a></li>
+
+</ul>
+            </header>
+
+
+            
+            <div id="content">
+
+                <!--FRTemplate ~/Views/_ViewStart.cshtml -->
+
+<!--FRTemplate ~/Views/Search/BoxResult.cshtml -->
+
+
+<form action="/Find" id="box-search-form" method="get"><input data-val="true" data-val-number="The field Take must be a number." data-val-required="The Take field is required." id="Take" name="Take" type="hidden" value="12" /><input data-val="true" data-val-required="The BoxType field is required." id="BoxType" name="BoxType" type="hidden" value="UserDefined" />	<h1><span class="findResults">Find Friend Group</span></h1>
+	<section id="searchFilter" class="findBox">
+		<fieldset>
+            <div id="keywords">
+                <input type="text" id="search-keywords" placeholder="Group name or keywords" value="" />
+                <input id="searchGo" type="submit" class="searchButtonSmall primaryButton small" value="Search" />
+            </div>
+
+  			<div id="cat">
+				<select id="categoryList">
+						    <option value="">All</option>
+                
+							<option value="40">Memorable Places</option>
+							<option value="56">News</option>
+							<option value="67">Music</option>
+							<option value="42">Holidays</option>
+							<option value="54">Local Events</option>
+							<option value="41">Food</option>
+							<option value="4">Film &amp; TV</option>
+							<option value="1">Sport</option>
+							<option value="81">My Places</option>
+							<option value="51">Childhood Memories</option>
+							<option value="61">Our History</option>
+							<option value="60">Pets</option>
+							<option value="63">People Special To Me</option>
+							<option value="62">Good Times</option>
+							<option value="59">General Groups</option>
+							<option value="19" selected="selected">My Tribes</option>
+							<option value="14">Public Transport</option>
+				</select>
+			</div>                                           
+            
+			
+
+			<div class="clear"></div>
+		</fieldset>
+	</section>
+	<section>
+		<nav class="smallBulletNav">
+			<ul id="boxsortList">
+				<li class="first"><span>Sort</span></li>
+                <li class="selected"><a href="#" data-sort="RecentPosts">Recent Upates</a></li>
+                <li class=""><a href="#" data-sort="Latest">Latest</a></li>
+				<li class=""><a href="#" data-sort="Popular">Most Photos</a></li>
+                <li class=""><a href="#" data-sort="Kept">Most Members</a></li>
+				<li class=""><a href="#" data-sort="Alphabetic">Alphabetic</a></li>
+			</ul>               
+              
+ 
+		</nav>
+		<div class="clear"></div>
+	</section>
+	<section id="boxResults">
+		<div id="boxList" class="pager-refresh-target">
+			<!--FRTemplate ~/Views/Search/_FullBoxList.cshtml -->
+
+
+<div id="box-list-wrapper">
+    <div id="gridView" class="listView masonry">
+        <div class="mpuCol corner-stamp">
+            <div id="csHolder">	
+<!--FRTemplate ~/Views/Advert/_venatusMpuRender.cshtml -->
+<!--Venatus Market Placement Code - 300x250 - Promo -->
+<script src="http://cdn2-marketplace.vntsm.com/p.js?s=52df92c28df9096b2000013f&r_id=2342201&r_type=banner_promo&r_banner_promo_size=300x250&r_banner_promo_expand_sizes=300x600&r_banner_promo_alignment=center" type="text/javascript"></script>
+<!--/Venatus Market Site Code - 300x250 - Promo -->
+
+
+  
+
+
+
+            </div>
+        </div>
+
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/school-memories/b/b72f3e8d-7a42-414d-96bb-a0b8004b2e34" title="school memories">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="school memories" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/689788874/220/223/0/0/1/70/ResizeOneDimension/0/FRU/0DCA7C254F4DF19400A13668BA54A562/the-gang-of-5-my-15th-birthday-party.jpg" class="shadow boxpic" width="223" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/school-memories/b/b72f3e8d-7a42-414d-96bb-a0b8004b2e34">school memories</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>3 people have joined this group</p>
+	                        <p>2 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/university-of-roehampton/b/51b109ba-700c-4c6e-b243-a5980148133a" title="University of Roehampton">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="University of Roehampton" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721638150/220/220/0/0/1/70/ResizeOneDimension/0/FRU/CFDEC0A78ABD9C207DCBC6216ED33270/no-title.jpg" class="shadow boxpic" width="220" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/university-of-roehampton/b/51b109ba-700c-4c6e-b243-a5980148133a">University of Roehampton</a></h4>
+                        <p class="d1 boxDescription">Centre of Excellence  for Psychotherapeutic...</p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>1 person has joined this group</p>
+	                        <p>0 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack3">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/111th-brownie-guide-group-easton-family-centre-bristol-4-special-needs/b/5e7f616e-9422-43ef-83f9-a533011d7e60" title="111th brownie guide group easton family centre bristol 4 special needs">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="111th brownie guide group easton family centre bristol 4 special needs" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721638150/220/220/0/0/1/70/ResizeOneDimension/0/FRU/CFDEC0A78ABD9C207DCBC6216ED33270/no-title.jpg" class="shadow boxpic" width="220" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/111th-brownie-guide-group-easton-family-centre-bristol-4-special-needs/b/5e7f616e-9422-43ef-83f9-a533011d7e60">111th brownie guide group easton family centre bristol 4 special needs</a></h4>
+                        <p class="d1 boxDescription">for those Brownies Guides and Rangers who attended...</p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>1 person has joined this group</p>
+	                        <p>0 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  landscape">
+                        <a href="/monkey-sanctury/b/8e01d6a1-b589-469b-b2b4-a36301766c6d" title="Monkey sanctury">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Monkey sanctury" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721672945/220/337/0/0/1/70/ResizeOneDimension/0/FRU/EBD2D124214314AAE9E173553D86BE1E/jeez.jpg" class="shadow boxpic" width="337" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/monkey-sanctury/b/8e01d6a1-b589-469b-b2b4-a36301766c6d">Monkey sanctury</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>4 people have joined this group</p>
+	                        <p>113 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack1">
+                    <div class="assetImg shadow  landscape">
+                        <a href="/iphone-app-development/b/aa76797a-ae1c-49cc-a5bb-a08200cc99c2" title="iPhone App Development">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="iPhone App Development" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721820976/220/293/0/0/1/70/ResizeOneDimension/0/FRU/B4E2506483BCAA512DC353AD92047D1E/alibon-school-dagenham.jpg" class="shadow boxpic" width="293" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/iphone-app-development/b/aa76797a-ae1c-49cc-a5bb-a08200cc99c2">iPhone App Development</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>12 people have joined this group</p>
+	                        <p>1 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/1970s-fashion/b/24ffbbd2-f6ff-4ddf-b959-a00a0111a63d" title="1970s Fashion">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="1970s Fashion" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721204664/220/146/0/0/1/70/ResizeOneDimension/0/PressAssociation/C669DEC664B467DDC2E8F194BE33E415/fashion-london-designer-collections-1979.jpg" class="shadow boxpic" width="146" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/1970s-fashion/b/24ffbbd2-f6ff-4ddf-b959-a00a0111a63d">1970s Fashion</a></h4>
+                        <p class="d1 boxDescription">From hot pants to bell-bottoms and the disco look,...</p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>1,366 people have joined this group</p>
+	                        <p>62 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  landscape">
+                        <a href="/just-out-about-with-the-kids-at-various-dates-places/b/4a43d3d6-0f38-4444-b177-a0880175b5df" title="just out &amp; about with the kids at various dates &amp; places">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="just out &amp; about with the kids at various dates &amp; places" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/679906401/220/293/0/0/1/70/ResizeOneDimension/0/FRU/81ECE78711009C8D2517B83EF214B3E9/smouty-junior-aged-about-5-or-6.jpg" class="shadow boxpic" width="293" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/just-out-about-with-the-kids-at-various-dates-places/b/4a43d3d6-0f38-4444-b177-a0880175b5df">just out & about with the kids at various dates & places</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>2 people have joined this group</p>
+	                        <p>5 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  landscape">
+                        <a href="/we-would-rather-go-naked-than-wear-fur/b/08f5d709-0a7e-43f6-8de5-a00b01130060" title="We Would Rather Go Naked Than Wear Fur">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="We Would Rather Go Naked Than Wear Fur" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721223942/220/272/0/0/1/70/ResizeOneDimension/0/PressAssociation/B6CE30FF5A276A75A03D1735A3987DAE/fur-out-love-in-peta-2.jpg" class="shadow boxpic" width="272" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/we-would-rather-go-naked-than-wear-fur/b/08f5d709-0a7e-43f6-8de5-a00b01130060">We Would Rather Go Naked Than Wear Fur</a></h4>
+                        <p class="d1 boxDescription">Since the first fur coat, there have been protests...</p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>8 people have joined this group</p>
+	                        <p>23 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  landscape">
+                        <a href="/shoes-we-used-to-wear/b/22bd73dc-ab5f-439b-ad52-a00b00db97ec" title="Shoes We Used To Wear">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Shoes We Used To Wear" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721216676/220/335/0/0/1/70/ResizeOneDimension/0/PressAssociation/CA436599EA5E3820E744830D99662B82/footwear-show-shoes.jpg" class="shadow boxpic" width="335" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/shoes-we-used-to-wear/b/22bd73dc-ab5f-439b-ad52-a00b00db97ec">Shoes We Used To Wear</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>280 people have joined this group</p>
+	                        <p>41 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack3">
+                    <div class="assetImg shadow  landscape">
+                        <a href="/the-most-beautiful-women-ever/b/ff410016-9f3e-49bf-baa7-a18800c1f441" title="The most beautiful women. Ever.">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="The most beautiful women. Ever." src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721526022/220/441/0/0/1/70/ResizeOneDimension/0/FRU/0CDF8B945845A74276E42882E198F942/greta-garbo.jpg" class="shadow boxpic" width="441" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/the-most-beautiful-women-ever/b/ff410016-9f3e-49bf-baa7-a18800c1f441">The most beautiful women. Ever.</a></h4>
+                        <p class="d1 boxDescription">Looking at all these beautiful women, I think my...</p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>8 people have joined this group</p>
+	                        <p>44 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/wavell-state-high-school/b/c603c313-372d-4758-bc7f-a54d00c1da6e" title="wavell state high school">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="wavell state high school" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721638150/220/220/0/0/1/70/ResizeOneDimension/0/FRU/CFDEC0A78ABD9C207DCBC6216ED33270/no-title.jpg" class="shadow boxpic" width="220" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/wavell-state-high-school/b/c603c313-372d-4758-bc7f-a54d00c1da6e">wavell state high school</a></h4>
+                        <p class="d1 boxDescription">high school
+</p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>1 person has joined this group</p>
+	                        <p>0 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack3">
+                    <div class="assetImg shadow  landscape">
+                        <a href="/nursing/b/9b993a21-bb10-4cc7-a444-a00a0119cb55" title="Nursing">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Nursing" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721205306/220/320/0/0/1/70/ResizeOneDimension/0/PressAssociation/72D927A8877CA2784C5674FF4B7316B9/prince-charles-marie-curie-award.jpg" class="shadow boxpic" width="320" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/nursing/b/9b993a21-bb10-4cc7-a444-a00a0119cb55">Nursing</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>267 people have joined this group</p>
+	                        <p>25 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+
+
+<!--FRTemplate ~/Views/UI/BocaGrandePager.cshtml -->
+    <div class="pager" style="height: 35px;">
+        <div class="pager-wrapper" style="display: none;">
+            <ul id="pageList" class="static">
+                <li class="pager-item first-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=UserDefined&amp;Category=19&amp;keywords=&amp;start=&amp;sort=RecentPosts" class="selected static" data-id="1" >1</a></li>
+                <li class="pager-item first-spacer first-item" style="display: none;"><span>...</span></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=UserDefined&amp;Category=19&amp;keywords=&amp;start=&amp;sort=RecentPosts&amp;page=2" class="static" data-id="2">2</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=UserDefined&amp;Category=19&amp;keywords=&amp;start=&amp;sort=RecentPosts&amp;page=3" class="static" data-id="3">3</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=UserDefined&amp;Category=19&amp;keywords=&amp;start=&amp;sort=RecentPosts&amp;page=4" class="static" data-id="4">4</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=UserDefined&amp;Category=19&amp;keywords=&amp;start=&amp;sort=RecentPosts&amp;page=5" class="static" data-id="5">5</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=UserDefined&amp;Category=19&amp;keywords=&amp;start=&amp;sort=RecentPosts&amp;page=6" class="static" data-id="6">6</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=UserDefined&amp;Category=19&amp;keywords=&amp;start=&amp;sort=RecentPosts&amp;page=7" class="static" data-id="7">7</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=UserDefined&amp;Category=19&amp;keywords=&amp;start=&amp;sort=RecentPosts&amp;page=8" class="static" data-id="8">8</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=UserDefined&amp;Category=19&amp;keywords=&amp;start=&amp;sort=RecentPosts&amp;page=9" class="static" data-id="9">9</a></li>
+                <li class="pager-item last-spacer last-item" style="display: none;"><span>of</span></li>
+                <li class="pager-item last-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=UserDefined&amp;Category=19&amp;keywords=&amp;start=&amp;sort=RecentPosts&amp;page=46" class="static" data-id="46">46</a></li>
+            </ul>
+            <a href="#" class="next static">Next</a>	
+        </div>
+    </div>
+
+<script type="text/javascript">
+	FR.Load(function() {
+		BocaGrande.Pager.Setup({
+			el: '.pager',
+			url: 'http://www.friendsreunited.co.uk/Find?take=12&boxType=UserDefined&Category=19&keywords=&start=&sort=RecentPosts',
+			refreshUrl: 'http://www.friendsreunited.co.uk/Find?take=12',
+			page: 1,
+			take: 12,
+			pageCount: 46,
+			pagedElement: '#box-list-wrapper',
+			size: 10,
+			pagerMiddleIncrement: 5,
+			sort: 'RecentPosts',
+			scrollTarget: '#box-list-wrapper',
+			data: {"boxType":7,"Category":19,"from":null,"to":null,"keywords":"","start":"","sort":"RecentPosts"},
+			callback: function(result) {
+				$('#gridView').masonry('destroy');
+				$('#box-list-wrapper').html(result);
+			    document.getElementById('contOuter').scrollIntoView();
+				if (!$('body.mobile').length > 0) {
+					$('#gridView').masonry({
+						itemSelector: '.item',
+						columnWidth: 1,
+						cornerStampSelector: '.corner-stamp',
+						isAnimated: true
+					});
+				} else {
+					$('.corner-stamp').remove();
+					//$('#gridView').masonry({
+					//	itemSelector: '.item',
+					//	columnWidth: 200
+					//});
+				}
+			}
+		});
+	});
+</script>
+<script type="text/javascript">
+	FR.Load(function () {
+		FR.BoxSearch.Results();
+		FR.BoxSearch.ConfigureAlpha();
+	});
+</script>
+		</div>
+	</section>
+</form><div class="clear"></div>
+
+<script type="text/javascript">
+	FR.Load(function() {
+		FR.BoxSearch.Setup();
+	});
+</script>
+                <div class="clear"></div>
+            </div>
+            <footer id="contentFooter">
+                <div class="smallBulletNav left">
+                    <ul>
+                        <li><a href="/About">About</a></li>
+                        <li><a href="/Help">Help</a></li>
+                        <li><a href="/Home/ContactUs">Contact us</a></li>
+                        
+                        <li class="termsConditions">
+                            <a href="/Terms">Terms &amp; Conditions</a><div class="newLabel"></div>
+                        </li>
+                        <li class="privacyPolicy">
+                            <a href="/Privacy">Privacy policy</a><div class="newLabel"></div>
+                        </li>
+                    </ul>
+                </div>
+
+                
+
+                <p class="copyright">&copy; Friends Reunited Limited 2000-2014. All site material is owned by Friends Reunited Limited and should not be used without prior permission. Any views expressed in message boards and member notes represent the opinions of the author, and do not represent the opinions of Friends Reunited Limited.</p>
+                <div class="smallBulletNav left">
+                    <ul>
+                        <li><span>Our sister sites:</span></li>
+                        <li><a class="twitter" href="/Account/Blank?Rf=8350&amp;Rd=http%3A%2F%2Fwww.friendsreuniteddating.co.uk" target="_blank" title="Dating">Dating</a></li>
+                        <li><a class="twitter" href="/Account/Blank?Rf=8350&amp;Rd=http%3A%2F%2Fwww.genesreunited.co.uk" target="_blank" title="Genes Reunited">Family Tree</a></li>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+            </footer>
+        </div>
+
+        <footer id="advert">
+
+        </footer>
+        
+<!--FRTemplate ~/Views/UI/Report.cshtml -->
+<div id="report-container"></div>
+<script type="text/javascript">
+    FR.Load(function () {
+        FR.Reporter.Setup();
+        //$('body').on('click', '.report', function (e) {
+        //	e.preventDefault();
+        //	var el = this;
+        //	if ($(el).attr('generated')) {
+        //		var key = $(el).attr('data-id');
+        //		var type = $(el).attr('data-type');
+
+        //		FR.Data.Get(FR.UrlHelper.UrlQueryBuilder(FR.UrlHelper.Urls.ReportForm, { key: key, type: type }), {}, function (result) {
+        //			$('#report-container').html(result);
+        //			$('#Redirect').val($(el).attr('data-url'));
+        //			$('#reportAbuse').modal({});
+        //		});
+        //	}
+        //});
+    });
+</script>
+    </div>
+
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+	<link rel="stylesheet" type="text/css" href="http://www.frstatic.net/css/ie.css" />
+	<script src="http://www.frstatic.net/js/libs/respond.min.js"> </script>
+<![endif]-->
+
+
+<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"> </script>
+
+<script type="text/javascript" src="/Content/Expires/libs.min_4DA148E86AF0942F91F10EEC33485E55.js"></script>
+
+
+<script type="text/javascript" src="/Content/Expires/Site.min_4E8521280B3678F912728D86CD59B2C4.js"></script>
+
+    <script type="text/javascript">
+        FR.OpenGraph.Namespace = 'friends_reunited';
+    </script>
+
+
+    <script type="text/javascript">
+        FR.Initialise();
+        FR.Load(function() {
+            FR.Popularity.SetupPopularity();
+        });
+   </script>
+
+    
+
+</body>
+
+</html>

@@ -1,0 +1,665 @@
+<!--FRTemplate ~/Views/Shared/_Layout.cshtml -->
+
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+    <!--FRTemplate ~/Views/Shared/_Layout.cshtml -->
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <title>Search | Page 1 | Friend Group Search | Friends Reunited</title>
+    <meta name="description" content="Page 1 - search results for Friend Groups matching the search term &#39;Search&#39;" />
+    <meta name="keywords" content="Search, search, discover, memories, box, nostalgia, remember, when, friends, reunited" />
+    <meta name="author" content="Friends Reunited" />
+    <link rel="shortcut icon" href="/favicon.ico?v=3">
+
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+
+    <meta name="apple-mobile-web-app-title" content="FriendsReunited">
+    <meta name="msapplication-TileImage" content="http://www.frstatic.net/Images/windows-8-tile.png"/>
+    <meta name="msapplication-TileColor" content="#0099C0" />
+
+        <link rel="canonical" href="/Find?id=34&amp;boxType=Town&amp;friendly=town"/>
+
+
+   <meta name="viewport" content="width=device-width" />
+    
+
+    
+
+
+
+<link rel="stylesheet" type="text/css" href="/Content/Expires/Libraries.min_7779B2D3B2F530F97A4C0BB14F3A3982.css" />
+
+
+<link rel="stylesheet" type="text/css" href="/Content/Expires/Site.min_DBFDD0C082CE5ED8E5C5C51C51020550.css" />
+
+
+
+
+    <link href="App_Sprites/Buzzes/highCompat.css" media="all" rel="stylesheet" type="text/css" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>	window.jQuery || document.write('<script src="http://www.frstatic.net/js/libs/jquery-1.8.3.min.js"><\/script>')</script>
+
+
+
+<script type="text/javascript" src="/Content/Expires/Header.min_2A2AD4CAC17594EFC526D8426DE3557A.js"></script>
+
+<script type="text/javascript">
+	FR.StaticUrl = 'http://www.frstatic.net';
+</script>
+
+
+
+
+
+<script type="text/javascript">
+	dataLayer = [{
+		'bsop_member_key': 0,
+		'bsop_member_age': 0,
+		'bsop_member_gender': '0',
+	    'bsop_member_v3': 'True',
+		'trk_click_source': '',
+		'trk_click_entity_key': '',
+		'trk_box_key': '',
+		'trk_box_name': '',
+		'page_counter': 'search.boxresult.page',
+		'digitial_analytics': 'search.boxresult.page',
+		'country_code': 'fru'
+	}];
+</script>
+
+
+
+<!--MachineName:FR1-WEB5-->
+
+    
+
+</head>
+<body class="clearfix  standard ">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-B7TL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-B7TL');</script>
+<!-- End Google Tag Manager -->
+
+    <!--[if IE 7]>
+        <div id="unsupported-browser">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td width="70px" align="center">
+                        <img src="http://www.frstatic.net/Images/Icons/notifyAlert.png" alt="Warning"/>
+                    </td>
+                    <td>
+                        <p><strong>The browser you are using is not fully supported by Friends Reunited.</strong> While the site may work, you may experience unexpected problems from time to time.</p>
+                        <p>To enjoy Friends Reunited to it's fullest, consider upgrading your browser. Find out more - <a href="http://windows.microsoft.com/en-GB/internet-explorer/download-ie" target="_blank">Microsoft Internet Explorer</a>, <a href="http://www.getfirefox.com" target="_blank">Mozilla Firefox</a>, <a href="http://www.google.com/intl/en/chrome/browser/" target="_blank">Google Chrome</a></p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    <![endif]-->
+
+    <div id="fb-root"></div>
+    
+    
+
+
+        <div id="sponsoredLinkBanner">&nbsp;</div>
+
+
+    <div id="contOuter">
+        
+        <div id="container" class="clearfix">
+
+            <header role="banner" id="fixedHeader" class="header">
+                
+                <a id="logo" href="/" title="Home">Friends Reunited</a>
+
+                
+
+
+
+
+<!--FRTemplate ~/Views/UI/SecondaryNav.cshtml -->
+
+
+<ul id="secondary-nav" class="nav nav-pills pull-right">
+
+		<li><a class="loginControl" href="/Home/Login?returnUrl=http%3A%2F%2Fwww.friendsreunited.co.uk%3A80%2FFind%3Fid%3D34%26boxType%3DTown%26friendly%3Dwales&amp;_loggingIn=True">Sign in</a></li>
+		<li class=""><a href="/Search/Find">Find</a></li>
+		<li><a href="/Help">Help</a></li>
+
+</ul>
+            </header>
+
+
+            
+            <div id="content">
+
+                <!--FRTemplate ~/Views/_ViewStart.cshtml -->
+
+<!--FRTemplate ~/Views/Search/BoxResult.cshtml -->
+
+
+<form action="/Find" id="box-search-form" method="get"><input data-val="true" data-val-number="The field Take must be a number." data-val-required="The Take field is required." id="Take" name="Take" type="hidden" value="12" /><input data-val="true" data-val-required="The BoxType field is required." id="BoxType" name="BoxType" type="hidden" value="Town" />	<h1><span class="findResults">Find Town</span></h1>
+	<section id="searchFilter" class="findBox">
+		<fieldset>
+            <div id="keywords">
+                <input type="text" id="search-keywords" placeholder="Town name" value="" />
+                <input id="searchGo" type="submit" class="searchButtonSmall primaryButton small" value="Search" />
+            </div>
+
+  			<div id="cat">
+				<select id="categoryList">
+						    <option value="">All</option>
+                
+							<option value="33">Scotland</option>
+							<option value="39">Rest of the World</option>
+							<option value="38">South Africa</option>
+							<option value="34" selected="selected">Wales</option>
+							<option value="37">New Zealand</option>
+							<option value="32">England</option>
+							<option value="35">Northern Ireland</option>
+							<option value="36">Australia</option>
+				</select>
+			</div>                                           
+            
+			
+
+			<div class="clear"></div>
+		</fieldset>
+	</section>
+	<section>
+		<nav class="smallBulletNav">
+			<ul id="boxsortList">
+				<li class="first"><span>Sort</span></li>
+				<li class="selected"><a href="#" data-sort="Alphabetic">Alphabetic</a></li>
+			</ul>                      
+              
+ 
+		</nav>
+		<div class="clear"></div>
+	</section>
+	<section id="boxResults">
+		<div id="boxList" class="pager-refresh-target">
+			<!--FRTemplate ~/Views/Search/_FullBoxList.cshtml -->
+
+
+<div id="box-list-wrapper">
+    <div id="gridView" class="listView masonry">
+        <div class="mpuCol corner-stamp">
+            <div id="csHolder">	
+<!--FRTemplate ~/Views/Advert/_venatusMpuRender.cshtml -->
+<!--Venatus Market Placement Code - 300x250 - Promo -->
+<script src="http://cdn2-marketplace.vntsm.com/p.js?s=52df92c28df9096b2000013f&r_id=2342201&r_type=banner_promo&r_banner_promo_size=300x250&r_banner_promo_expand_sizes=300x600&r_banner_promo_alignment=center" type="text/javascript"></script>
+<!--/Venatus Market Site Code - 300x250 - Promo -->
+
+
+  
+
+
+
+            </div>
+        </div>
+
+                <div class="item imgStack3">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/aberaeron/b/88fef393-c402-4a8c-8e71-6ea38d87a7ce" title="Aberaeron">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Aberaeron" src="http://images.francisfrith.com/c10/170/48/A182031.jpg" class="shadow boxpic" width="0" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/aberaeron/b/88fef393-c402-4a8c-8e71-6ea38d87a7ce">Aberaeron</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription">Aberaeron, Wales</p>
+                        <div class="meta">
+                            <p>13 people have joined this group</p>
+	                        <p>12 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/aberaman/b/e53f4bcb-dac8-49d2-9983-a0140106e907" title="Aberaman">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Aberaman" src="http://images.francisfrith.com/c10/170/51/A189007.jpg" class="shadow boxpic" width="0" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/aberaman/b/e53f4bcb-dac8-49d2-9983-a0140106e907">Aberaman</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription">Aberaman, Wales</p>
+                        <div class="meta">
+                            <p>0 people have joined this group</p>
+	                        <p>4 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack3">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/aberangell/b/688cf4e0-3c4f-4491-ae1c-a014010b4fce" title="Aberangell">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Aberangell" src="http://images.francisfrith.com/c10/170/50/A268015.jpg" class="shadow boxpic" width="0" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/aberangell/b/688cf4e0-3c4f-4491-ae1c-a014010b4fce">Aberangell</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription">Aberangell, Wales</p>
+                        <div class="meta">
+                            <p>0 people have joined this group</p>
+	                        <p>2 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack3">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/aberarth/b/41b5230c-efa2-4847-ac6b-a01400f7895c" title="Aberarth">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Aberarth" src="http://images.francisfrith.com/c10/170/48/A183022.jpg" class="shadow boxpic" width="0" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/aberarth/b/41b5230c-efa2-4847-ac6b-a01400f7895c">Aberarth</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription">Aberarth, Wales</p>
+                        <div class="meta">
+                            <p>1 person has joined this group</p>
+	                        <p>3 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/aberavon/b/56600f46-cc0e-41e6-9703-a0140112f3bf" title="Aberavon">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Aberavon" src="http://images.francisfrith.com/c10/170/54/A95010.jpg" class="shadow boxpic" width="0" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/aberavon/b/56600f46-cc0e-41e6-9703-a0140112f3bf">Aberavon</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription">Aberavon, Wales</p>
+                        <div class="meta">
+                            <p>0 people have joined this group</p>
+	                        <p>10 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/aberavon/b/f3f7395c-0c33-4a97-9589-a00b010bea7d" title="Aberavon">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Aberavon" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721223141/220/160/0/0/1/70/ResizeOneDimension/0/PressAssociation/AF8EF1CCD58BFB705C0C514194DE27F4/swalec-cup-rugby-union.jpg" class="shadow boxpic" width="160" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/aberavon/b/f3f7395c-0c33-4a97-9589-a00b010bea7d">Aberavon</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>3 people have joined this group</p>
+	                        <p>2 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack1">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/aberavon/b/9addef97-4499-42a0-8696-a00a0106fcd8" title="Aberavon">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Aberavon" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721447924/220/220/0/0/1/70/ResizeOneDimension/0/FRU/EF5763D6BA3111B7A96149F647746A7E/no-title.jpg" class="shadow boxpic" width="220" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/aberavon/b/9addef97-4499-42a0-8696-a00a0106fcd8">Aberavon</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>0 people have joined this group</p>
+	                        <p>0 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack2">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/aberavon/b/959a8ffe-28c7-44f3-b1ce-a00a01125f36" title="Aberavon">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Aberavon" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721447924/220/220/0/0/1/70/ResizeOneDimension/0/FRU/EF5763D6BA3111B7A96149F647746A7E/no-title.jpg" class="shadow boxpic" width="220" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/aberavon/b/959a8ffe-28c7-44f3-b1ce-a00a01125f36">Aberavon</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>0 people have joined this group</p>
+	                        <p>0 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack1">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/aberbargoed/b/eef8118a-ccdf-44c1-a015-a0140106f060" title="Aberbargoed">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Aberbargoed" src="http://images.francisfrith.com/c10/170/51/A296007.jpg" class="shadow boxpic" width="0" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/aberbargoed/b/eef8118a-ccdf-44c1-a015-a0140106f060">Aberbargoed</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription">Aberbargoed, Wales</p>
+                        <div class="meta">
+                            <p>0 people have joined this group</p>
+	                        <p>1 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack3">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/aberbeeg/b/454d1cdb-2aa4-40be-9aac-a01400ff1f6f" title="Aberbeeg">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Aberbeeg" src="http://images.francisfrith.com/c10/170/49/A257018.jpg" class="shadow boxpic" width="0" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/aberbeeg/b/454d1cdb-2aa4-40be-9aac-a01400ff1f6f">Aberbeeg</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription">Aberbeeg, Wales</p>
+                        <div class="meta">
+                            <p>0 people have joined this group</p>
+	                        <p>1 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack1">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/abercarn/b/16a48302-f070-4ae0-a38a-a00b010bf33c" title="Abercarn">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Abercarn" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721223146/220/162/0/0/1/70/ResizeOneDimension/0/PressAssociation/8323E937C935BE24424D803020C2CEFD/joe-calzaghe-training.jpg" class="shadow boxpic" width="162" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/abercarn/b/16a48302-f070-4ae0-a38a-a00b010bf33c">Abercarn</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>3 people have joined this group</p>
+	                        <p>3 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+                <div class="item imgStack3">
+                    <div class="assetImg shadow  portrait">
+                        <a href="/abercarn/b/3dee2c03-40ad-4858-a03a-a00a01127292" title="Abercarn">
+                            <div class="boxOuter">
+                                <div class="boxInner">
+									<img alt="Abercarn" src="http://www.assetstorage.co.uk/AssetStorageService.svc/GetImageFriendly/721447924/220/220/0/0/1/70/ResizeOneDimension/0/FRU/EF5763D6BA3111B7A96149F647746A7E/no-title.jpg" class="shadow boxpic" width="220" height="220"/>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    
+                    <div class="info">
+                        <h4><a href="/abercarn/b/3dee2c03-40ad-4858-a03a-a00a01127292">Abercarn</a></h4>
+                        <p class="d1 boxDescription"></p>
+                        <p class="d1 boxDescription"></p>
+                        <div class="meta">
+                            <p>0 people have joined this group</p>
+	                        <p>0 photos</p>
+                        </div>
+                    </div>
+                    <div class="imgStack"></div>
+					<div class="clear"></div>
+                </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+
+
+<!--FRTemplate ~/Views/UI/BocaGrandePager.cshtml -->
+    <div class="pager" style="height: 35px;">
+        <div class="pager-wrapper" style="display: none;">
+            <ul id="pageList" class="static">
+                <li class="pager-item first-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=Town&amp;Category=34&amp;keywords=&amp;start=&amp;sort=Alphabetic" class="selected static" data-id="1" >1</a></li>
+                <li class="pager-item first-spacer first-item" style="display: none;"><span>...</span></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=Town&amp;Category=34&amp;keywords=&amp;start=&amp;sort=Alphabetic&amp;page=2" class="static" data-id="2">2</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=Town&amp;Category=34&amp;keywords=&amp;start=&amp;sort=Alphabetic&amp;page=3" class="static" data-id="3">3</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=Town&amp;Category=34&amp;keywords=&amp;start=&amp;sort=Alphabetic&amp;page=4" class="static" data-id="4">4</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=Town&amp;Category=34&amp;keywords=&amp;start=&amp;sort=Alphabetic&amp;page=5" class="static" data-id="5">5</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=Town&amp;Category=34&amp;keywords=&amp;start=&amp;sort=Alphabetic&amp;page=6" class="static" data-id="6">6</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=Town&amp;Category=34&amp;keywords=&amp;start=&amp;sort=Alphabetic&amp;page=7" class="static" data-id="7">7</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=Town&amp;Category=34&amp;keywords=&amp;start=&amp;sort=Alphabetic&amp;page=8" class="static" data-id="8">8</a></li>
+                        <li class="pager-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=Town&amp;Category=34&amp;keywords=&amp;start=&amp;sort=Alphabetic&amp;page=9" class="static" data-id="9">9</a></li>
+                <li class="pager-item last-spacer last-item" style="display: none;"><span>of</span></li>
+                <li class="pager-item last-item"><a href="http://www.friendsreunited.co.uk/Find?take=12&amp;boxType=Town&amp;Category=34&amp;keywords=&amp;start=&amp;sort=Alphabetic&amp;page=66" class="static" data-id="66">66</a></li>
+            </ul>
+            <a href="#" class="next static">Next</a>	
+        </div>
+    </div>
+
+<script type="text/javascript">
+	FR.Load(function() {
+		BocaGrande.Pager.Setup({
+			el: '.pager',
+			url: 'http://www.friendsreunited.co.uk/Find?take=12&boxType=Town&Category=34&keywords=&start=&sort=Alphabetic',
+			refreshUrl: 'http://www.friendsreunited.co.uk/Find?take=12',
+			page: 1,
+			take: 12,
+			pageCount: 66,
+			pagedElement: '#box-list-wrapper',
+			size: 10,
+			pagerMiddleIncrement: 5,
+			sort: 'Alphabetic',
+			scrollTarget: '#box-list-wrapper',
+			data: {"boxType":10,"Category":34,"from":null,"to":null,"keywords":"","start":"","sort":"Alphabetic"},
+			callback: function(result) {
+				$('#gridView').masonry('destroy');
+				$('#box-list-wrapper').html(result);
+			    document.getElementById('contOuter').scrollIntoView();
+				if (!$('body.mobile').length > 0) {
+					$('#gridView').masonry({
+						itemSelector: '.item',
+						columnWidth: 1,
+						cornerStampSelector: '.corner-stamp',
+						isAnimated: true
+					});
+				} else {
+					$('.corner-stamp').remove();
+					//$('#gridView').masonry({
+					//	itemSelector: '.item',
+					//	columnWidth: 200
+					//});
+				}
+			}
+		});
+	});
+</script>
+<script type="text/javascript">
+	FR.Load(function () {
+		FR.BoxSearch.Results();
+		FR.BoxSearch.ConfigureAlpha();
+	});
+</script>
+		</div>
+	</section>
+</form><div class="clear"></div>
+
+<script type="text/javascript">
+	FR.Load(function() {
+		FR.BoxSearch.Setup();
+	});
+</script>
+                <div class="clear"></div>
+            </div>
+            <footer id="contentFooter">
+                <div class="smallBulletNav left">
+                    <ul>
+                        <li><a href="/About">About</a></li>
+                        <li><a href="/Help">Help</a></li>
+                        <li><a href="/Home/ContactUs">Contact us</a></li>
+                        
+                        <li class="termsConditions">
+                            <a href="/Terms">Terms &amp; Conditions</a><div class="newLabel"></div>
+                        </li>
+                        <li class="privacyPolicy">
+                            <a href="/Privacy">Privacy policy</a><div class="newLabel"></div>
+                        </li>
+                    </ul>
+                </div>
+
+                
+
+                <p class="copyright">&copy; Friends Reunited Limited 2000-2014. All site material is owned by Friends Reunited Limited and should not be used without prior permission. Any views expressed in message boards and member notes represent the opinions of the author, and do not represent the opinions of Friends Reunited Limited.</p>
+                <div class="smallBulletNav left">
+                    <ul>
+                        <li><span>Our sister sites:</span></li>
+                        <li><a class="twitter" href="/Account/Blank?Rf=8350&amp;Rd=http%3A%2F%2Fwww.friendsreuniteddating.co.uk" target="_blank" title="Dating">Dating</a></li>
+                        <li><a class="twitter" href="/Account/Blank?Rf=8350&amp;Rd=http%3A%2F%2Fwww.genesreunited.co.uk" target="_blank" title="Genes Reunited">Family Tree</a></li>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+            </footer>
+        </div>
+
+        <footer id="advert">
+
+        </footer>
+        
+<!--FRTemplate ~/Views/UI/Report.cshtml -->
+<div id="report-container"></div>
+<script type="text/javascript">
+    FR.Load(function () {
+        FR.Reporter.Setup();
+        //$('body').on('click', '.report', function (e) {
+        //	e.preventDefault();
+        //	var el = this;
+        //	if ($(el).attr('generated')) {
+        //		var key = $(el).attr('data-id');
+        //		var type = $(el).attr('data-type');
+
+        //		FR.Data.Get(FR.UrlHelper.UrlQueryBuilder(FR.UrlHelper.Urls.ReportForm, { key: key, type: type }), {}, function (result) {
+        //			$('#report-container').html(result);
+        //			$('#Redirect').val($(el).attr('data-url'));
+        //			$('#reportAbuse').modal({});
+        //		});
+        //	}
+        //});
+    });
+</script>
+    </div>
+
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+	<link rel="stylesheet" type="text/css" href="http://www.frstatic.net/css/ie.css" />
+	<script src="http://www.frstatic.net/js/libs/respond.min.js"> </script>
+<![endif]-->
+
+
+<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"> </script>
+
+<script type="text/javascript" src="/Content/Expires/libs.min_4DA148E86AF0942F91F10EEC33485E55.js"></script>
+
+
+<script type="text/javascript" src="/Content/Expires/Site.min_4E8521280B3678F912728D86CD59B2C4.js"></script>
+
+    <script type="text/javascript">
+        FR.OpenGraph.Namespace = 'friends_reunited';
+    </script>
+
+
+    <script type="text/javascript">
+        FR.Initialise();
+        FR.Load(function() {
+            FR.Popularity.SetupPopularity();
+        });
+   </script>
+
+    
+
+</body>
+
+</html>

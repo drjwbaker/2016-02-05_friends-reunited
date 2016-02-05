@@ -1,0 +1,387 @@
+<!--FRTemplate ~/Views/Shared/_Layout.cshtml -->
+
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+    <!--FRTemplate ~/Views/Shared/_Layout.cshtml -->
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta charset="utf-8" />
+    <title>Terms and Conditions | Legal Stuff | Friends Reunited</title>
+    <meta name="description" content="The Friends Reunited website is owned and run by Friends Reunited Limited, a UK limited company.  We are incorporated in England, and our registered company number is 03932836." />
+    <meta name="keywords" content="terms, conditions, legal, friends, reunited, remember, when" />
+    <meta name="author" content="Friends Reunited" />
+    <link rel="shortcut icon" href="/favicon.ico?v=3">
+
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+
+    <meta name="apple-mobile-web-app-title" content="FriendsReunited">
+    <meta name="msapplication-TileImage" content="http://www.frstatic.net/Images/windows-8-tile.png"/>
+    <meta name="msapplication-TileColor" content="#0099C0" />
+
+
+
+   <meta name="viewport" content="width=device-width" />
+    
+
+    
+
+
+
+<link rel="stylesheet" type="text/css" href="/Content/Expires/Libraries.min_7779B2D3B2F530F97A4C0BB14F3A3982.css" />
+
+
+<link rel="stylesheet" type="text/css" href="/Content/Expires/Site.min_DBFDD0C082CE5ED8E5C5C51C51020550.css" />
+
+
+
+
+    <link href="App_Sprites/Buzzes/highCompat.css" media="all" rel="stylesheet" type="text/css" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>	window.jQuery || document.write('<script src="http://www.frstatic.net/js/libs/jquery-1.8.3.min.js"><\/script>')</script>
+
+
+
+<script type="text/javascript" src="/Content/Expires/Header.min_2A2AD4CAC17594EFC526D8426DE3557A.js"></script>
+
+<script type="text/javascript">
+	FR.StaticUrl = 'http://www.frstatic.net';
+</script>
+
+
+
+
+
+<script type="text/javascript">
+	dataLayer = [{
+		'bsop_member_key': 0,
+		'bsop_member_age': 0,
+		'bsop_member_gender': '0',
+	    'bsop_member_v3': 'True',
+		'trk_click_source': '',
+		'trk_click_entity_key': '',
+		'trk_box_key': '',
+		'trk_box_name': '',
+		'page_counter': 'page.terms.page',
+		'digitial_analytics': 'page.terms.page',
+		'country_code': 'fru'
+	}];
+</script>
+
+
+
+<!--MachineName:FR1-WEB5-->
+
+    
+
+</head>
+<body class="clearfix  standard ">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-B7TL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-B7TL');</script>
+<!-- End Google Tag Manager -->
+
+    <!--[if IE 7]>
+        <div id="unsupported-browser">
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                    <td width="70px" align="center">
+                        <img src="http://www.frstatic.net/Images/Icons/notifyAlert.png" alt="Warning"/>
+                    </td>
+                    <td>
+                        <p><strong>The browser you are using is not fully supported by Friends Reunited.</strong> While the site may work, you may experience unexpected problems from time to time.</p>
+                        <p>To enjoy Friends Reunited to it's fullest, consider upgrading your browser. Find out more - <a href="http://windows.microsoft.com/en-GB/internet-explorer/download-ie" target="_blank">Microsoft Internet Explorer</a>, <a href="http://www.getfirefox.com" target="_blank">Mozilla Firefox</a>, <a href="http://www.google.com/intl/en/chrome/browser/" target="_blank">Google Chrome</a></p>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    <![endif]-->
+
+    <div id="fb-root"></div>
+    
+    
+
+
+        <div id="sponsoredLinkBanner">&nbsp;</div>
+
+
+    <div id="contOuter">
+        
+        <div id="container" class="clearfix">
+
+            <header role="banner" id="fixedHeader" class="header">
+                
+                <a id="logo" href="/" title="Home">Friends Reunited</a>
+
+                
+
+
+<!--FRTemplate ~/Views/UI/SecondaryNav.cshtml -->
+
+
+<ul id="secondary-nav" class="nav nav-pills pull-right">
+
+		<li><a class="loginControl" href="/Home/Login?returnUrl=http%3A%2F%2Fwww.friendsreunited.co.uk%3A80%2FTerms&amp;_loggingIn=True">Sign in</a></li>
+		<li class=""><a href="/Search/Find">Find</a></li>
+		<li><a href="/Help">Help</a></li>
+
+</ul>
+            </header>
+
+
+            
+            <div id="content">
+
+                <!--FRTemplate ~/Views/_ViewStart.cshtml -->
+
+<!--FRTemplate ~/Views/Page/Terms.cshtml -->
+
+<div id="column" class="terms spaced">
+<h1>Friends Reunited Terms and Conditions</h1>
+
+<p>The Friends Reunited website  is owned and run by Friends Reunited Limited, a UK limited company. We are  incorporated in England, and our registered company number is 03932836. Our  registered office address is The Glebe, 6 Chapel Place, Rivington Street,  London, UK, EC2A 3DQ. <br />
+We will refer to these terms  and conditions as the &ldquo;Terms&rdquo; throughout. Our <a href="/Privacy">Privacy Policy</a> forms part of the Terms, so please read that too. The Terms, the Privacy Policy  and any other document we refer to in these Terms make up the whole agreement  between us. <br />
+These Terms explain our  conditions for you using the website, together with any related services we  provide within the website. If you do not agree to be bound by the Terms, you  must not continue to use the website.</p>
+
+<h3>Registration.</h3>
+<p>You have to register with us  and be signed in to use some features of the website. If you are under 18,  don&rsquo;t register unless you have permission from your legal guardian (usually a  parent) to do so. Keep your sign in details private at all times, do not share  them with anybody, and let us know if you think somebody else has access to  them. Do not use the 'Keep me signed in' feature to keep yourself signed in unless  you are using your own personal computer. You must keep your personal  information accurate and up to date, especially your email address. 
+
+<h3>What you can use the website  for.</h3>
+<p>You can use the website, and  any services we provide on the website, for your own personal, non-commercial  use, for example, for keeping in touch with friends, uploading comments,  sharing content on the website and purchasing goods that we may sell on the  website from time to time. <br />
+In relation to any content we  provide for your use on the website, there are certain restrictions on how you  can use this content for personal, non-commercial use. You can find out more  about permitted uses of content we provide on the website, <a href="http://www.friendsreunited.co.uk/Terms#content">below</a>. <br />
+In using the website, you are  not permitted to do the following:</p>
+<ul class="bulleted">
+<li>You  must not send or otherwise post unauthorised commercial communications such as  spam.</li>
+<li>You  must not collect other members&rsquo; content or information, or otherwise access the  website, using automated means without our express consent and any use of  harvesting bots, scrapers, spiders and robots or any other analytical,  information-gathering or automated tools is strictly forbidden.</li>
+<li>You  must not solicit login information or access another member&rsquo;s account without  express permission.</li>
+<li>You  must not use the website for the purpose of bullying, intimidating or harassing  any other members.</li>
+<li>You  must not use the website to do anything which would reasonably be considered  malicious, discriminatory, misleading or unlawful.</li>
+<li>You  must not do anything, or use the website in a way, which impairs the proper  working of the website for other members, such as a denial of service attack.</li>
+</ul>
+<p>If you order products based on or incorporating any  content available on the website then you confirm and warrant to us the  following:</p>
+<ul class="bulleted">
+<li>Any content posted by other members forming part of your order  have been shared with you by that member and you have accessed them lawfully  using your own account. </li>
+<li>The products ordered by you are intended for  private and non-commercial use and will not be put on public display. </li>
+<li>Any products ordered by you are not and will not be  used or distributed by you in connection with any purpose would might  reasonably be considered&nbsp; harassing, offensive, defamatory, hateful, infringing of  third party intellectual property or image rights, threatening, pornographic,  illegal or which contains nudity or graphic or gratuitous violence.</li>
+</ul>
+
+<h3>THE SERVICES WE PROVIDE</h3>
+<p>On the website, we provide you  with a service which allows you to contact friends, and share content which you  may upload to the website, such as comments, images and videos (which we will  refer to as &ldquo;your content&rdquo;). We also provide you with content such as images,  videos and other information for your use on the website (which we will refer  to as &quot;our content&quot;). </p>
+
+<h3>Intellectual property rights  (including copyright) in our content.</h3> <a name="content"></a>
+<p> All intellectual property  rights in the website, our content and any database operated by us, either  belong to us or have been licensed to us. <br />  You  are authorised to use our content for private and non-commercial purposes as  follows:</p>
+<ul class="bulleted">
+<li>to  create your own groups on the service;</li>
+<li>to  access for personal use (to comment on, view and share) within the service;</li>
+<li>to publish  and/or interact with our content within the service via message boards, polls  or by adding comments; </li>
+<li>to  share our content with other members within groups; and</li>
+<li>to  provide links to our content to others outside the website, using the &ldquo;share links&rdquo;  on the website (but to always ensure our content is maintained on and accessed  from within the website). </li>
+</ul>
+
+<p>All our other rights are  reserved so you should not use our content for any purpose not set out above  and in particular:</p>
+<ul class="bulleted">
+<li>You  must not upload or distribute our content on other platforms such as Facebook.</li>
+<li>You  must not use our content for commercial uses or in carrying on a business,  including for marketing or promotional activities. If you want to use the  website or our content for anything apart from your own private and  non-commercial use, please contact us. We try to be accommodating where  possible, but as some of our content belongs to other people, we will require  their permission for you to use it. You can read more about copyright in this <a href="http://www.ipo.gov.uk/c-basicfacts.pdf" target="_blank">government guide</a>. </li>
+<li>You  must not copy, edit, adapt, change, alter, manipulate, reproduce, redistribute,  download or use our content, either in whole or in part, other than as  permitted here.</li>
+<li>You  must not use our content in any way within the website which may reasonably be  considered to be offensive, inappropriate or defamatory (this is at our  discretion) or which is unlawful.</li>
+</ul>
+
+<h3>Respecting your intellectual  property rights (including copyright).</h3>
+<p> If you believe that you own  the copyright in any of the content on the website, and we have not recognised  you as the copyright owner, please contact us and we will investigate quickly.  While we are investigating, we may temporarily remove the content in question.  If we agree that you are the copyright owner, we will work with you to find a  solution that you agree with, or we will take the relevant part of the content  in question off the website permanently.<br />
+
+<h3>Intellectual property rights  (including copyright) in your content.</h3>
+<p>We do not claim ownership  rights in the content, information, pictures, images, sounds, videos, graphics,  software, files, or any other item that you or any other member posts on the  website. In relation to your content, subject to the privacy settings which you  choose to apply to relevant parts of your content (which you can find out more  about in our <a href="/Privacy">Privacy Policy</a>), you grant us a transferable, non-exclusive,  sub-licensable, royalty-free, worldwide licence to use all your content on or  in relation to the website or the business of all brightsolid group companies  and to edit, adapt or modify it as we wish. <br />
+You will not assert any moral  rights in the material that you create or publish on the website. If we use any  of your personal information (for example, your name) in connection with it, we  will ask your permission first. We may also make your content available to  other users of the website, to users of websites that are either part of our  company group or with whom we have a partnership, and by internet search  engines. <br />
+This licence terminates when  you delete your content or your account with us, unless you have publicly  shared your content with others, and they have not deleted it. You understand  that, when your content is deleted, backup copies of your content will exist  for a reasonable period of time, although your content will not be available  for others to view.<br />
+When you post and share your  content or other information under the Public setting, you are allowing  everyone to access and use that information.</p>
+
+<h3>Guidelines in relation to your  content.</h3>
+<p>As well as the general rules  governing use of the website, if you publish content, make comments or  participate in forums, you are not permitted to do the following:</p>
+<ul class="bulleted">
+<li>You  must not publish something that you do not own the intellectual property rights  in (or have permission to publish it from the intellectual property rights  owner). </li>
+<li>You  must not include anything we consider offensive, inappropriate, defamatory,  hateful, threatening, pornographic or which contains nudity or graphic or  gratuitous violence (this is at our discretion). </li>
+<li>You  must not break the law, for example by saying something that you could be sued  for. </li>
+<li>You  must not share the personal information of living people without their  permission.</li>
+<li>You  must not tag or identify individuals in a way which you know they would not  like or is reasonably likely to cause any harm, embarrassment, offence or  distress.</li>
+<li>You  must not upload viruses or other malicious code.</li>
+</ul>
+
+<h3>Monitoring content published  by you.</h3>
+<p> We do not monitor content  published by you and take no responsibility for things that you publish. If you  see something on the site that you think is offensive, illegal or which isn&rsquo;t  in line with these Terms, please let us know. We don&rsquo;t guarantee that we will  always remove it, but we will certainly look into it. We reserve the right to  remove content that you create, at our discretion. Any content we do decide to  remove will be done so in accordance with our Take Down Procedures.</p>
+
+<h3>GOODS AND SERVICES WE OFFER ON  THE WEBSITE</h3>
+<h3>Personal data and payment security.</h3>
+<p>Please read our <a href="/Privacy">Privacy Policy</a> to find out how we protect your personal data and credit card information.</p>
+<strong>Purchasing goods from the  website.</strong><br />
+You can purchase goods from  the website. To purchase goods from the website:</p>
+
+<ul class="bulleted">
+<li>You  must be over 18 years old.</li>
+<li>You  must register with the website.</li>
+<li>You  can view goods available for purchase by clicking on the &ldquo;product icons&rdquo;  buttons.</li>
+<li>You  can select goods by adding these to your &quot;shopping basket&quot; by  clicking the &ldquo;add to basket&rdquo; button.</li>
+<li>You  will then pay for your goods by first confirming that you have read and  understood these Terms and Conditions – we will ask you to tick the box. You  will be asked to make payment, which is taken through the Datacash secure  payment gateway. Payment is accepted from the following major credit and debit cards:-  Visa, Visa Electron, Mastercard, Maestro, Switch and Solo. Your credit/details  will be taken by Datacash and are never stored on our servers.</li>
+</ul>
+<p>Once we have received your  order and payment for the goods, you will be sent a confirmation email, confirming  your order and the delivery details. This is the stage at which your purchase  is complete, and the contract between you and us for the purchase of the goods  is formed.<br />
+All orders are subject to the  availability of stocks. If your choice of goods is not available, we will  contact you to offer the following options:</p>
+<ul class="bulleted">
+<li>Alternative  goods – if the alternative goods are less in value, a partial refund will be  arranged. If the alternative goods are more in value, additional payment by you  will be required;</li>
+<li>A  delay until the goods become available;</li>
+<li>A  refund to the value of the goods which cannot be delivered; or</li>
+<li>Cancellation  of the entire order and a full refund.</li>
+</ul>
+
+<p>We reserve the right not to  process or fulfil any order where in our absolute discretion we have reason to  suspect breach of any of these terms or conditions.&nbsp; </p>
+
+<p>If we cannot contact you, we  reserve the right to provide suitable alternative goods at no extra charge. It  is very important that you give us your correct contact details during the  order process.</p>
+
+<p>All credit/debit card  purchases are subject to validation checks and authorisation by the card  issuer. If the issuer of your payment card refuses to or does not for any  reason authorise payment to us, we will not accept your order.</p>
+
+<p>Goods are usually dispatched  within 5 working days of the order being placed. You will be notified by e-mail  on the day your goods are dispatched. Items will be posted by courier. </p>
+
+<p>Bespoke goods. As the goods we  offer on the website are made to specification, in the sense that you choose  the size, style and type of the finished web-to-print product, you will not  have the right to cancel the order after payment has been taken and your  purchase has been confirmed. <br />
+Where you have received your  goods and they are faulty or damaged, however, you have the right to return  these to us. If you wish to return faulty or damaged goods, please contact  <a href="mailto:support@friendsreunited.co.uk">support@friendsreunited.co.uk</a>. We will pay for the cost of returning  the faulty or damaged goods to us. In some circumstances, we may not require  you to return the faulty or damaged goods at all. We will refund your  credit/debit card within 30 days of receipt of notification by us of the  faulty/damaged goods.<br />
+Please note that we will not  be able to return goods on the basis they have been prepared with inferior  quality source images where we have indicated this at the point of order and  you have asked us to proceed. </p>
+
+<p>If you&rsquo;re a member, you will  generally have access to lots of images available to access and use at no cost.  We might offer special collections of photos, videos or other content available  for a separate payment, but this will be rare. <br />
+Availability and changes to  the Friends Reunited website or service.</p>
+
+<p>We do our best to provide you  with a quality service, but the availability of the website and service is not  guaranteed at any time. The website and service are provided on an &ldquo;as is&rdquo;  basis and are subject to change. We do not warrant or promise that the website  will always be available or fully functional and reserve the right to withdraw  the website or particular parts of it at any time and will not be liable to you  for any losses you might suffer. Sometimes all or part of the website will be  unavailable if it is undergoing upgrades or maintenance by us or our content  provider.<br />
+In the event we are notified  that any of the material featured on the website (whether content owned or  licensed to us or user generated content) potentially infringes the rights of  any third party, we reserve the right to remove that content in accordance with  our Take Down Procedures. The content will remain removed until we have  conducted our investigation into the allegations made and may be permanently  removed depending on the outcome of our investigation. </p>
+
+
+<h3>Things beyond our control.</h3>
+<p>If we are prevented or delayed  in the performance of our obligations under the Terms arising from or  attributable to acts, events, omissions or circumstances beyond our control,  including but not limited to, acts of God, perils of the sea or air, fire,  flood, drought, explosion, sabotage, accident, embargo, riot, civil commotion  or civil authority including acts of local government and parliamentary  authority; breakdown of equipment; telecommunication failures; epidemic; war;  terrorism; extreme adverse weather conditions; and labour disputes of whatever  nature and for whatever cause arising including, but not limited to, work to  rule, overtime, strikes and lockouts, then we will notify you of the  circumstance and will be excused from the performance or the punctual performance  as the case may be from the date of notice we provide you with for so long as  such cause of prevention or delay continues. We will not be liable to you for  any loss you may suffer during as a result of circumstances beyond our control.</p>
+
+<h3>Customer support and  complaints.</h3>
+<p>We will always aim to fix  problems where we can. If you have a question, suggestion or complaint about  the website or any of the content featured on the website, or any complaints  about goods purchased through the website, please contact our <a href="/Home/ContactUs">contact us</a> team first and we&rsquo;ll do our best to sort it out.</p>
+
+<h3>When we might stop you using  the website.</h3>
+<p>If you breach these Terms, we  reserve the right to stop you using the website and to terminate our agreement.  If you use the Friends Reunited website and/or service for non-private and/or  commercial purposes, we also reserve the right to stop your access and to  terminate our agreement with you. </p>
+
+<h3>Some legal bits. </h3>
+<p>Liability. The only warranties  or promises we give are set out in this document and in so far as we are  permitted to do so by law, all warranties in respect of the website and its  content are excluded. We can&rsquo;t accept liability for any indirect or  consequential losses, loss of data or any use of content you suffer from using  the website, although we never limit liability for personal injury or death  caused by our negligence or fraud. For any other loss you suffer that is caused  by us, we limit the liability we have to you to the total money you spent on  the website in the 12 calendar months before you make a claim against us. Your  statutory rights are not affected. </p>
+<p>Assignment. These Terms are  personal to you, and you are not allowed to transfer your rights under this  agreement to anyone else.</p>
+<p>Severance. If any part of  these Terms no longer applies or is no longer legally enforceable, then that  part will be severed from the rest of the agreement and the rest will continue  to apply.</p>
+
+<h3>The law.</h3>
+<p>These Terms are made under  English law, and any arguments about them will only be heard in English courts. </p>
+
+<h3>Changes to the Terms.</h3> 
+<p>We might make changes to these  Terms from time to time. Check back here to stay up to date. If we do make a  major change to it, we&rsquo;ll usually send you a service email describing the  change and what it means for you. </p>
+
+<h3>Contact Us.</h3>
+<p>We hope that&rsquo;s clear. If it  isn&rsquo;t or you have another question that isn&rsquo;t covered, please <a href="/Home/ContactUs">contact us</a>. </p>
+</div>
+
+       
+    
+   
+                <div class="clear"></div>
+            </div>
+            <footer id="contentFooter">
+                <div class="smallBulletNav left">
+                    <ul>
+                        <li><a href="/About">About</a></li>
+                        <li><a href="/Help">Help</a></li>
+                        <li><a href="/Home/ContactUs">Contact us</a></li>
+                        
+                        <li class="termsConditions">
+                            <a href="/Terms">Terms &amp; Conditions</a><div class="newLabel"></div>
+                        </li>
+                        <li class="privacyPolicy">
+                            <a href="/Privacy">Privacy policy</a><div class="newLabel"></div>
+                        </li>
+                    </ul>
+                </div>
+
+                
+
+                <p class="copyright">&copy; Friends Reunited Limited 2000-2014. All site material is owned by Friends Reunited Limited and should not be used without prior permission. Any views expressed in message boards and member notes represent the opinions of the author, and do not represent the opinions of Friends Reunited Limited.</p>
+                <div class="smallBulletNav left">
+                    <ul>
+                        <li><span>Our sister sites:</span></li>
+                        <li><a class="twitter" href="/Account/Blank?Rf=8350&amp;Rd=http%3A%2F%2Fwww.friendsreuniteddating.co.uk" target="_blank" title="Dating">Dating</a></li>
+                        <li><a class="twitter" href="/Account/Blank?Rf=8350&amp;Rd=http%3A%2F%2Fwww.genesreunited.co.uk" target="_blank" title="Genes Reunited">Family Tree</a></li>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+            </footer>
+        </div>
+
+        <footer id="advert">
+
+        </footer>
+        
+<!--FRTemplate ~/Views/UI/Report.cshtml -->
+<div id="report-container"></div>
+<script type="text/javascript">
+    FR.Load(function () {
+        FR.Reporter.Setup();
+        //$('body').on('click', '.report', function (e) {
+        //	e.preventDefault();
+        //	var el = this;
+        //	if ($(el).attr('generated')) {
+        //		var key = $(el).attr('data-id');
+        //		var type = $(el).attr('data-type');
+
+        //		FR.Data.Get(FR.UrlHelper.UrlQueryBuilder(FR.UrlHelper.Urls.ReportForm, { key: key, type: type }), {}, function (result) {
+        //			$('#report-container').html(result);
+        //			$('#Redirect').val($(el).attr('data-url'));
+        //			$('#reportAbuse').modal({});
+        //		});
+        //	}
+        //});
+    });
+</script>
+    </div>
+
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+	<link rel="stylesheet" type="text/css" href="http://www.frstatic.net/css/ie.css" />
+	<script src="http://www.frstatic.net/js/libs/respond.min.js"> </script>
+<![endif]-->
+
+
+<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"> </script>
+
+<script type="text/javascript" src="/Content/Expires/libs.min_4DA148E86AF0942F91F10EEC33485E55.js"></script>
+
+
+<script type="text/javascript" src="/Content/Expires/Site.min_4E8521280B3678F912728D86CD59B2C4.js"></script>
+
+    <script type="text/javascript">
+        FR.OpenGraph.Namespace = 'friends_reunited';
+    </script>
+
+
+    <script type="text/javascript">
+        FR.Initialise();
+        FR.Load(function() {
+            FR.Popularity.SetupPopularity();
+        });
+   </script>
+
+    
+
+</body>
+
+</html>
